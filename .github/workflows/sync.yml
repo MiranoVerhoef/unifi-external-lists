@@ -1,0 +1,59 @@
+name: Sync V2Fly lists
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/sync.yml
+      - scripts/convert.py
+      - tests/test_convert.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: v2fly-sync
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Checkout V2Fly
+        uses: actions/checkout@v4
+        with:
+          repository: v2fly/domain-list-community
+          ref: master
+          path: upstream
+          persist-credentials: false
+
+      - name: Run tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Generate lists
+        run: |
+          python3 scripts/convert.py \
+            --source upstream/data \
+            --output lists \
+            --manifest manifest.json \
+            --catalog LISTS.md \
+            --revision "$(git -C upstream rev-parse HEAD)"
+
+      - name: Publish changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- lists/ LISTS.md manifest.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update domain lists"
+            git push
+          fi
