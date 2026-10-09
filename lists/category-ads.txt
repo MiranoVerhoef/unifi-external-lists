@@ -820,7 +820,6 @@ xapi.ozon.ru
 xapi.ozonru.me
 xray.mail.ru
 xy-log.tagtic.cn
-yabs.yandex.ru
 yads.tech
 yandex-metrica.ru
 yandexmetrica.com

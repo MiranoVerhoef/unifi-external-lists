@@ -1666,6 +1666,7 @@ behindthescreenz.com
 bellsouth.net
 berizaryad.ru
 berkanawireless.com
+beru.ru
 best4bim.com
 bestbeats4u.com
 bestbim.com
@@ -1809,6 +1810,7 @@ bluemix.net
 blurams.app
 blurams.com
 bookkeeper.itunes.apple.com
+bookmate.ru
 bookonsky.net
 bookstagram.com
 boom.ru
@@ -2473,6 +2475,7 @@ delcamna.com
 delcamtv.com
 delcamuniversity.com
 delcamusa.com
+delivery-club.ru
 dell-alw.com
 dell-brand.com
 dell.ac
@@ -2932,6 +2935,7 @@ ecotect.com
 ecotect.net
 ecscad.com
 ecspublisher.com
+edadeal.ru
 edge.geo.kaspersky.com
 edgefonts.net
 edu-research.org
@@ -3430,6 +3434,7 @@ fonolia.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
+foodfox.ru
 foofle.com
 footprintdns.com
 footwear-cadcam.com
@@ -5383,6 +5388,7 @@ mapguide.com
 mappingonline.com
 maps.apple.com
 marinecadcam.com
+market.ru
 marketing-cloud.com
 marketing-nirvana.com
 marketingcloud.com
@@ -6697,6 +6703,7 @@ rustdesk.com
 rustore.ru
 rustore.team
 rustore.tv
+rutaxi.ru
 rzr.to
 s-bluemix.net
 s-cashonmobile.com
@@ -6956,6 +6963,8 @@ sharepointonline.com
 shazam-insights.cdn-apple.com
 shazam.com
 shedevrum.ai
+shedevrum.com
+shedevrum.ru
 sheets.new
 shell.cdn.office.net
 shisho.dev
@@ -7401,6 +7410,7 @@ theinstagramhack.com
 theintelstore.com
 theinventionworks.com
 theinventionworks.net
+thequestion.ru
 theuab.net
 thinkboxsoftware.com
 thinkdifferent.us
@@ -7657,6 +7667,7 @@ verizonfios.com
 verizonmedia.com
 verizonwireless.com
 versly.com
+vezet.ru
 vfabric.net
 vfsforgit.com
 vfsforgit.org
@@ -8175,7 +8186,7 @@ xtracloud.net
 xuite.net
 ya.cc
 ya.ru
-yabs.yandex.ru
+yadi.sk
 yads.tech
 yahoo-news.com.hk
 yahoo.ae
@@ -8339,8 +8350,10 @@ yaklass.ru
 yamaxun.cn
 yamaxun.com
 yammer.com
+yandex-ad.cn
 yandex-bank.net
 yandex-metrica.ru
+yandex-team.com
 yandex-team.ru
 yandex.aero
 yandex.asia
@@ -8365,22 +8378,29 @@ yandex.kg
 yandex.kz
 yandex.lt
 yandex.lv
+yandex.market
 yandex.md
 yandex.mobi
 yandex.net
+yandex.net.ru
 yandex.org
 yandex.pl
+yandex.pro
 yandex.ru
 yandex.st
 yandex.sx
+yandex.taxi
 yandex.tj
 yandex.tm
 yandex.tr
+yandex.travel
 yandex.ua
 yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexdataschool.com
+yandexdataschool.ru
 yandexgo.com
 yandexlyceum.ru
 yandexmetrica.com
@@ -8405,6 +8425,7 @@ yastatic-net.ru
 yastatic.net
 yccdn.ru
 yclients.com
+ydb.tech
 yho.com
 yimg.com
 yimg.jp

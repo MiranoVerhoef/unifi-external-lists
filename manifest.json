@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "e84921279c9142434b43cb84ec6c17f987e025df",
-  "total_lists": 1542,
-  "published_lists": 1536,
+  "upstream_revision": "c6adacf29cc4fb05e04651fcf03e00989ef9f797",
+  "total_lists": 1545,
+  "published_lists": 1539,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -1463,14 +1463,21 @@
     },
     "category-ads": {
       "status": "published",
-      "domain_count": 843,
+      "domain_count": 842,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ads-all": {
       "status": "published",
-      "domain_count": 903,
+      "domain_count": 902,
+      "skipped_regex": 1,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
+    "category-ads-and-telemetry": {
+      "status": "published",
+      "domain_count": 848,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1484,14 +1491,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 188,
+      "domain_count": 189,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 188,
+      "domain_count": 189,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1568,7 +1575,7 @@
     },
     "category-bank-ru": {
       "status": "published",
-      "domain_count": 313,
+      "domain_count": 356,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1638,7 +1645,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8628,
+      "domain_count": 8649,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1785,7 +1792,7 @@
     },
     "category-finance": {
       "status": "published",
-      "domain_count": 614,
+      "domain_count": 657,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -2114,7 +2121,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 1930,
+      "domain_count": 1998,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -2220,6 +2227,13 @@
     "category-tech-media-ru": {
       "status": "published",
       "domain_count": 34,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
+    "category-telemetry": {
+      "status": "published",
+      "domain_count": 6,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4123,7 +4137,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25665,
+      "domain_count": 25747,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -8197,7 +8211,14 @@
     },
     "sber": {
       "status": "published",
-      "domain_count": 98,
+      "domain_count": 100,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
+    "sberbank": {
+      "status": "published",
+      "domain_count": 18,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10479,7 +10500,7 @@
     },
     "yandex": {
       "status": "published",
-      "domain_count": 132,
+      "domain_count": 153,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
