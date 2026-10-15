@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "c6adacf29cc4fb05e04651fcf03e00989ef9f797",
+  "upstream_revision": "dd4e3c080cee602512768e8109f89fafaa94b8ca",
   "total_lists": 1545,
   "published_lists": 1539,
   "omitted_lists": 6,
@@ -1645,7 +1645,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8649,
+      "domain_count": 8654,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1771,7 +1771,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2125,
+      "domain_count": 2126,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -1841,14 +1841,14 @@
     },
     "category-games": {
       "status": "published",
-      "domain_count": 1143,
+      "domain_count": 1144,
       "skipped_regex": 4,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
     },
     "category-games-!cn": {
       "status": "published",
-      "domain_count": 860,
+      "domain_count": 861,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1897,7 +1897,7 @@
     },
     "category-ip-geo-detect": {
       "status": "published",
-      "domain_count": 238,
+      "domain_count": 239,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2121,7 +2121,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 1998,
+      "domain_count": 2073,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -4137,7 +4137,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25747,
+      "domain_count": 25752,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -7553,7 +7553,7 @@
     },
     "playstation": {
       "status": "published",
-      "domain_count": 3,
+      "domain_count": 4,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -8631,7 +8631,7 @@
     },
     "sony": {
       "status": "published",
-      "domain_count": 113,
+      "domain_count": 118,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2

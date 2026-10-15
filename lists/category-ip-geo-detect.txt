@@ -10,6 +10,7 @@ bgp.he.net
 bgp.tools
 bigdatacloud.net
 browserleaks.com
+bulkgeoip.com
 check-host.net
 checkip.amazonaws.com
 checkip.com.vn
