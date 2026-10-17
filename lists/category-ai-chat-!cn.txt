@@ -61,6 +61,7 @@ cursor-cdn.com
 cursor.com
 cursor.sh
 cursorapi.com
+cursorvm.com
 daily-cloudcode-pa.googleapis.com
 deepmind.com
 deepmind.google
@@ -144,6 +145,7 @@ opal.google
 opal.google.com
 openai.com
 openai.com.cdn.cloudflare.net
+openai.org
 openai.qualtrics.com
 openaiapi-site.azureedge.net
 openaiassets.blob.core.windows.net
@@ -180,6 +182,7 @@ themeforest.net
 trae.ai
 tripo3d.ai
 turn.livekit.cloud
+typesafe.ai
 webchannel-alkalimakersuite-pa.clients6.google.com
 windsurf.build
 windsurf.com

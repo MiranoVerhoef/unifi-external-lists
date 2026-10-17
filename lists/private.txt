@@ -102,6 +102,8 @@ leike.cc
 local.adguard.org
 localhost.ptlogin2.qq.com
 localhost.sec.qq.com
+localhost.weixin.qq.com
+localhost.work.weixin.qq.com
 miwifi.com
 my.router
 oasisauth.h3c.com

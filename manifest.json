@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "dd4e3c080cee602512768e8109f89fafaa94b8ca",
+  "upstream_revision": "4b6e9f1e16c0905e8c1f1b22f7669ceb9507da8b",
   "total_lists": 1545,
   "published_lists": 1539,
   "omitted_lists": 6,
@@ -1491,14 +1491,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 189,
+      "domain_count": 192,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 189,
+      "domain_count": 192,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1645,7 +1645,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8654,
+      "domain_count": 8656,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1792,7 +1792,7 @@
     },
     "category-finance": {
       "status": "published",
-      "domain_count": 657,
+      "domain_count": 658,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -2121,7 +2121,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2073,
+      "domain_count": 2075,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -2919,7 +2919,7 @@
     },
     "cursor": {
       "status": "published",
-      "domain_count": 4,
+      "domain_count": 5,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4137,7 +4137,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25752,
+      "domain_count": 25758,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -7147,7 +7147,7 @@
     },
     "openai": {
       "status": "published",
-      "domain_count": 22,
+      "domain_count": 23,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -7658,7 +7658,7 @@
     },
     "private": {
       "status": "published",
-      "domain_count": 122,
+      "domain_count": 124,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 8
@@ -8253,7 +8253,7 @@
     },
     "schwab": {
       "status": "published",
-      "domain_count": 7,
+      "domain_count": 8,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -9387,7 +9387,7 @@
     },
     "timeweb": {
       "status": "published",
-      "domain_count": 3,
+      "domain_count": 5,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
