@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "84394e467557d986c67341c90e36ca7e698d3860",
-  "total_lists": 1545,
-  "published_lists": 1539,
+  "upstream_revision": "6b0f8edc935ee0ad2cb386ac3efd451ee2380ac5",
+  "total_lists": 1547,
+  "published_lists": 1541,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -1645,7 +1645,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8668,
+      "domain_count": 8665,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1771,7 +1771,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2130,
+      "domain_count": 2127,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -1796,6 +1796,13 @@
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
+    },
+    "category-flight-simulator": {
+      "status": "published",
+      "domain_count": 79,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
     },
     "category-food-cn": {
       "status": "published",
@@ -1841,14 +1848,14 @@
     },
     "category-games": {
       "status": "published",
-      "domain_count": 1147,
+      "domain_count": 1144,
       "skipped_regex": 4,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
     },
     "category-games-!cn": {
       "status": "published",
-      "domain_count": 864,
+      "domain_count": 861,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -4137,7 +4144,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25773,
+      "domain_count": 25770,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -6328,7 +6335,7 @@
     },
     "microsoft": {
       "status": "published",
-      "domain_count": 746,
+      "domain_count": 743,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 8
@@ -9826,6 +9833,13 @@
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
+    "vatsim": {
+      "status": "published",
+      "domain_count": 25,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
     "veet": {
       "status": "published",
       "domain_count": 45,
@@ -10346,7 +10360,7 @@
     },
     "xbox": {
       "status": "published",
-      "domain_count": 44,
+      "domain_count": 41,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1

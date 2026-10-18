@@ -130,7 +130,6 @@ armaplatform.com
 artstation.com
 artstationmedia.com
 artstorm.com
-asobostudio.com
 assets.ppy.sh
 att.tv
 atttvnow.com
@@ -618,8 +617,6 @@ fireemblemawakening.com
 fireside.fm
 firesidegatherings.com
 fitgirl-repacks.site
-flightsimulator.azureedge.net
-flightsimulator.com
 flipnotestudio.com
 forgecdn.net
 formula1.com

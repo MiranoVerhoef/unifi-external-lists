@@ -27,7 +27,6 @@ armaplatform.com
 artstation.com
 artstationmedia.com
 artstorm.com
-asobostudio.com
 assets.ppy.sh
 avatargarenanow-a.akamaihd.net
 awayoutgame.com
@@ -213,8 +212,6 @@ fire-emblem-heroes.com
 fireemblemawakening.com
 firesidegatherings.com
 fitgirl-repacks.site
-flightsimulator.azureedge.net
-flightsimulator.com
 flipnotestudio.com
 forgecdn.net
 fortnite-vod.akamaized.net

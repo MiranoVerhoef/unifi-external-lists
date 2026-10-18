@@ -1002,7 +1002,6 @@ as-hp.ca
 asfiovnxocqpcry.com.cn
 askfacebook.net
 askfacebook.org
-asobostudio.com
 asp-cc.com
 asp.net
 aspnetcdn.com
@@ -3419,8 +3418,6 @@ flatt.tech
 flic.kr
 flickr.com
 flickr.net
-flightsimulator.azureedge.net
-flightsimulator.com
 flipshare.com
 flipwithsurface.com
 flow.dev

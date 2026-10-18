@@ -3,7 +3,7 @@
 Generated from [V2Fly domain-list-community](https://github.com/v2fly/domain-list-community).
 Unsupported regexes and keywords are omitted.
 
-Published lists: **1539** of **1545**.
+Published lists: **1541** of **1547**.
 
 | List | Domains | Skipped regex | Skipped keyword |
 | --- | ---: | ---: | ---: |
@@ -241,7 +241,7 @@ Published lists: **1539** of **1545**.
 | [category-cdn-cn](lists/category-cdn-cn.txt) | 93 | 0 | 0 |
 | [category-collaborate-cn](lists/category-collaborate-cn.txt) | 26 | 0 | 0 |
 | [category-communication](lists/category-communication.txt) | 149 | 0 | 0 |
-| [category-companies](lists/category-companies.txt) | 8668 | 6 | 0 |
+| [category-companies](lists/category-companies.txt) | 8665 | 6 | 0 |
 | [category-consent-management](lists/category-consent-management.txt) | 14 | 0 | 0 |
 | [category-container](lists/category-container.txt) | 9 | 1 | 0 |
 | [category-cryptocurrency](lists/category-cryptocurrency.txt) | 235 | 0 | 0 |
@@ -259,18 +259,19 @@ Published lists: **1539** of **1545**.
 | [category-emby](lists/category-emby.txt) | 83 | 0 | 0 |
 | [category-enhance-gaming](lists/category-enhance-gaming.txt) | 18 | 0 | 0 |
 | [category-enterprise-query-platform-cn](lists/category-enterprise-query-platform-cn.txt) | 13 | 0 | 0 |
-| [category-entertainment](lists/category-entertainment.txt) | 2130 | 10 | 0 |
+| [category-entertainment](lists/category-entertainment.txt) | 2127 | 10 | 0 |
 | [category-entertainment-cn](lists/category-entertainment-cn.txt) | 927 | 1 | 0 |
 | [category-entertainment-ru](lists/category-entertainment-ru.txt) | 31 | 0 | 0 |
 | [category-finance](lists/category-finance.txt) | 658 | 0 | 0 |
+| [category-flight-simulator](lists/category-flight-simulator.txt) | 79 | 0 | 0 |
 | [category-food-cn](lists/category-food-cn.txt) | 62 | 0 | 0 |
 | [category-forums](lists/category-forums.txt) | 110 | 0 | 0 |
 | [category-forums-ir](lists/category-forums-ir.txt) | 2 | 0 | 0 |
 | [category-forums-ru](lists/category-forums-ru.txt) | 10 | 0 | 0 |
 | [category-game-accelerator-cn](lists/category-game-accelerator-cn.txt) | 45 | 0 | 0 |
 | [category-game-platforms-download](lists/category-game-platforms-download.txt) | 491 | 0 | 0 |
-| [category-games](lists/category-games.txt) | 1147 | 4 | 0 |
-| [category-games-!cn](lists/category-games-!cn.txt) | 864 | 3 | 0 |
+| [category-games](lists/category-games.txt) | 1144 | 4 | 0 |
+| [category-games-!cn](lists/category-games-!cn.txt) | 861 | 3 | 0 |
 | [category-games-cn](lists/category-games-cn.txt) | 283 | 1 | 0 |
 | [category-gov-ir](lists/category-gov-ir.txt) | 29 | 0 | 0 |
 | [category-gov-ru](lists/category-gov-ru.txt) | 142 | 0 | 0 |
@@ -597,7 +598,7 @@ Published lists: **1539** of **1545**.
 | [geetest](lists/geetest.txt) | 2 | 0 | 0 |
 | [gemfury](lists/gemfury.txt) | 6 | 0 | 0 |
 | [genotek-ru](lists/genotek-ru.txt) | 9 | 0 | 0 |
-| [geolocation-!cn](lists/geolocation-!cn.txt) | 25773 | 158 | 0 |
+| [geolocation-!cn](lists/geolocation-!cn.txt) | 25770 | 158 | 0 |
 | [geolocation-cn](lists/geolocation-cn.txt) | 8312 | 3 | 0 |
 | [gettyimages](lists/gettyimages.txt) | 25 | 0 | 0 |
 | [getui](lists/getui.txt) | 7 | 0 | 0 |
@@ -909,7 +910,7 @@ Published lists: **1539** of **1545**.
 | [metacritic](lists/metacritic.txt) | 1 | 0 | 0 |
 | [metart](lists/metart.txt) | 5 | 0 | 0 |
 | [miaomiaozhe](lists/miaomiaozhe.txt) | 2 | 0 | 0 |
-| [microsoft](lists/microsoft.txt) | 746 | 0 | 0 |
+| [microsoft](lists/microsoft.txt) | 743 | 0 | 0 |
 | [microsoft-dev](lists/microsoft-dev.txt) | 74 | 0 | 0 |
 | [microsoft-pki](lists/microsoft-pki.txt) | 6 | 0 | 0 |
 | [midea](lists/midea.txt) | 9 | 0 | 0 |
@@ -1404,6 +1405,7 @@ Published lists: **1539** of **1545**.
 | [vancl](lists/vancl.txt) | 3 | 0 | 0 |
 | [vanish](lists/vanish.txt) | 47 | 0 | 0 |
 | [vaptcha](lists/vaptcha.txt) | 2 | 0 | 0 |
+| [vatsim](lists/vatsim.txt) | 25 | 0 | 0 |
 | [veet](lists/veet.txt) | 45 | 0 | 0 |
 | [vercel](lists/vercel.txt) | 27 | 0 | 0 |
 | [verisign](lists/verisign.txt) | 33 | 0 | 0 |
@@ -1478,7 +1480,7 @@ Published lists: **1539** of **1545**.
 | [x](lists/x.txt) | 28 | 0 | 0 |
 | [x5](lists/x5.txt) | 35 | 0 | 0 |
 | [xai](lists/xai.txt) | 4 | 0 | 0 |
-| [xbox](lists/xbox.txt) | 44 | 0 | 0 |
+| [xbox](lists/xbox.txt) | 41 | 0 | 0 |
 | [xd](lists/xd.txt) | 12 | 0 | 0 |
 | [xda](lists/xda.txt) | 4 | 0 | 0 |
 | [xdty](lists/xdty.txt) | 1 | 0 | 0 |
