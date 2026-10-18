@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "10c47db24284b161d45b342247cfb47206590bf6",
+  "upstream_revision": "84394e467557d986c67341c90e36ca7e698d3860",
   "total_lists": 1545,
   "published_lists": 1539,
   "omitted_lists": 6,
@@ -448,7 +448,7 @@
     },
     "amazon": {
       "status": "published",
-      "domain_count": 241,
+      "domain_count": 242,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 8
@@ -1645,7 +1645,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8667,
+      "domain_count": 8668,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1771,7 +1771,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2129,
+      "domain_count": 2130,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -4137,7 +4137,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25772,
+      "domain_count": 25773,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -7651,7 +7651,7 @@
     },
     "primevideo": {
       "status": "published",
-      "domain_count": 23,
+      "domain_count": 24,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
