@@ -117,6 +117,7 @@ curseforge.com
 cygames.co.jp
 cygames.jp
 d1unuk07s6td74.cloudfront.net
+d348twzf7a8p5.cloudfront.net
 daoc.net
 darkageofcamelot.com
 darkness-risen.com
@@ -126,6 +127,7 @@ dawngatechronicles.com
 dayz.com
 deadspacegame.com
 demonware.net
+devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 diablo.com
 diablo3.com
 diablo4.com
@@ -147,6 +149,7 @@ doom.com
 dota2.com
 dota2.com.cn
 dota2.wmsj.cn
+doy2mn9upadnk.cloudfront.net
 dragonage.com
 dragonagekeep.com
 dragonagemovie.com
