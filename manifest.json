@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "6b0f8edc935ee0ad2cb386ac3efd451ee2380ac5",
-  "total_lists": 1547,
-  "published_lists": 1541,
+  "upstream_revision": "da8acadbc82bd59a6193df8c1f676d28f96461d7",
+  "total_lists": 1548,
+  "published_lists": 1542,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -1076,6 +1076,13 @@
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
+    "bitrix": {
+      "status": "published",
+      "domain_count": 11,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
     "bitsquare": {
       "status": "published",
       "domain_count": 3,
@@ -1645,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8665,
+      "domain_count": 8666,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1736,7 +1743,7 @@
     },
     "category-education-ru": {
       "status": "published",
-      "domain_count": 19,
+      "domain_count": 20,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1827,7 +1834,7 @@
     },
     "category-forums-ru": {
       "status": "published",
-      "domain_count": 10,
+      "domain_count": 11,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1876,7 +1883,7 @@
     },
     "category-gov-ru": {
       "status": "published",
-      "domain_count": 142,
+      "domain_count": 145,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1953,7 +1960,7 @@
     },
     "category-media-ru": {
       "status": "published",
-      "domain_count": 142,
+      "domain_count": 149,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2128,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2086,
+      "domain_count": 2118,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -4144,7 +4151,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25770,
+      "domain_count": 25771,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -5628,7 +5635,7 @@
     },
     "kontur": {
       "status": "published",
-      "domain_count": 5,
+      "domain_count": 7,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -6594,7 +6601,7 @@
     },
     "mts-ru": {
       "status": "published",
-      "domain_count": 12,
+      "domain_count": 13,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

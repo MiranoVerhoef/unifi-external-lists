@@ -1,4 +1,5 @@
 1917live.red
+1c-bitrix.ru
 1l-hit.mail.ru
 1l-hit.vkplay.ru
 1prime.ru
@@ -110,6 +111,7 @@ altaiobr04.ru
 amc.yandex.ru
 amediateka.ru
 amic.ru
+amt-insurance.com
 amur.ru
 an.mail.ru
 an.yandex.ru
@@ -187,6 +189,7 @@ avs.io
 avto.ru
 avtovokzaly.ru
 azbukainterneta.ru
+azbyka.ru
 b17.ru
 b2.mail.ru
 b2c-digest.ru
@@ -240,6 +243,16 @@ bget.ru
 bilet.nspk.ru
 bimsaas.ru
 bir.ru
+bitrix.info
+bitrix24.com
+bitrix24.net
+bitrix24.ru
+bitrix24.tech
+bitrix24public.com
+bitrix24shop.ru
+bitrix24site.ru
+bitrixphone.com
+bitrixsoft.com
 bizmrg.com
 bk.ru
 bk6bba-resources.com
@@ -291,6 +304,7 @@ centrinvest.ru
 ceosummit.ru
 cert-gib.com
 cert-gib.ru
+chat2desk.com
 chel.ru
 chelindbank.ru
 chelinvest.ru
@@ -630,6 +644,7 @@ hhcdn.ru
 home.bank
 homecredit.ru
 hrtek.ru
+hse.ru
 hva.im
 i-ola.ru
 ibamoscow.ru
@@ -735,6 +750,7 @@ jivochat.ng
 jivochat.ru
 jivosite.com
 jivosite.ru
+joyreactor.cc
 jpmorgan.ru
 jump.taxi
 jumpwork.ru
@@ -847,6 +863,8 @@ ksn-url-geo.kaspersky-labs.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict-geo.kaspersky-labs.com
 ksn-verdict.geoksn.kaspersky.com
+ktalk.host
+ktalk.ru
 ktech.team
 kuban.ru
 kubankredit.ru
@@ -859,6 +877,7 @@ lanta.ru
 lenta.com
 lenta.tech
 lerna.ru
+lexgarant.com
 lifestyle-tec.ru
 ligadobra.ru
 ligastavok-csr.ru
@@ -960,6 +979,7 @@ mos.transport.vtb.ru
 mosgorzdrav.ru
 mosmetro.ru
 mosmetro.tech
+mospat.ru
 mosreg.ru
 movika.com
 mp.world
@@ -970,6 +990,7 @@ ms.dzen.ru
 ms.vk.com
 ms.vk.ru
 mspbank.ru
+mts-link.ru
 mts-ws.net
 mts.ru
 mtsbank.ru
@@ -1139,6 +1160,7 @@ p16.upd.kaspersky.com
 p17.upd.kaspersky.com
 p18.upd.kaspersky.com
 p19.upd.kaspersky.com
+patriarchia.ru
 payecom.ru
 payment.ru
 paywb.com
@@ -1168,8 +1190,12 @@ polza.ai
 ponyexpress.ru
 popmechanic.io
 popmechanic.ru
+posledovania.ru
 poudobnee.com
 pravilno-pishem.ru
+pravmir.com
+pravmir.ru
+pravoslavie.ru
 premier.one
 premiumlive.site
 pressria.ru
@@ -1228,10 +1254,13 @@ reg.cloud
 reg.com
 reg.ru
 regard.ru
+regionvideo.ru
 reklama.mail.ru
 relap.mail.ru
 rencapbank.ru
 rencredit.ru
+renins.com
+renins.ru
 report-megafon.ru
 report.ap.yandex-net.ru
 reso-med.com
@@ -1247,6 +1276,7 @@ rncb.ru
 rncoluminis.ru
 rnd.ru
 ro-edu.ru
+robohall.tech
 robotext.io
 rocketozon.by
 roistat.com
@@ -1841,6 +1871,7 @@ wbtek.ru
 wbwh.ru
 wbwh.tech
 web-analytics.wildberries.ru
+webtypikon.ru
 webvisor.com
 webvisor.org
 weildberries.ru
@@ -1948,6 +1979,7 @@ xn--80aafgovrgbc7am.xn--p1ai
 xn--80acbjgmges7ca.xn--p1ai
 xn--80acbjgsdq2cl.xn--p1ai
 xn--80acgfbsl1azdqr.xn--p1ai
+xn--80adfddrquddgz.xn--p1ai
 xn--80aglfyfk.xn--p1ai
 xn--80aglzei.xn--p1ai
 xn--80aj3b.xn--p1ai

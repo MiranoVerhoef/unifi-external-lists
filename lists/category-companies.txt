@@ -5878,6 +5878,7 @@ mtalk-dev.google.com
 mtalk-staging.google.com
 mtalk.google.com
 mtalk4.google.com
+mts-link.ru
 mts-ws.net
 mts.ru
 mtsbank.ru
