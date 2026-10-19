@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "da8acadbc82bd59a6193df8c1f676d28f96461d7",
+  "upstream_revision": "6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f",
   "total_lists": 1548,
   "published_lists": 1542,
   "omitted_lists": 6,
@@ -1498,14 +1498,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 192,
+      "domain_count": 193,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 192,
+      "domain_count": 193,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8666,
+      "domain_count": 8669,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 667,
+      "domain_count": 668,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1778,7 +1778,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2127,
+      "domain_count": 2130,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -1792,7 +1792,7 @@
     },
     "category-entertainment-ru": {
       "status": "published",
-      "domain_count": 31,
+      "domain_count": 34,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2118,
+      "domain_count": 2121,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -4151,7 +4151,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25771,
+      "domain_count": 25776,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -5579,7 +5579,7 @@
     },
     "kinopoisk": {
       "status": "published",
-      "domain_count": 2,
+      "domain_count": 5,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -9975,7 +9975,7 @@
     },
     "vokino": {
       "status": "published",
-      "domain_count": 22,
+      "domain_count": 23,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10521,7 +10521,7 @@
     },
     "yandex": {
       "status": "published",
-      "domain_count": 153,
+      "domain_count": 156,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1

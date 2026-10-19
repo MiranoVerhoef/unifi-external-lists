@@ -13430,6 +13430,9 @@ kotlinlang.org
 koubaibu.jp
 koukoku.jp
 kouwobb.com
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+kp.yandex.net
 kpacg.com
 kphimsex.net
 kpht85.com
@@ -14100,6 +14103,7 @@ magentomobile.com
 magestic.com
 magicalmirai.com
 magicmovies.com
+magnific.com
 magnoliaav.com.cn
 mahajantech.com
 maidonanews.jp
@@ -18362,6 +18366,7 @@ postgresql.org
 postimages.org
 postimg.cc
 postini.com
+postman.com
 posty.kr
 postyourgirls.ws
 potenza.jp

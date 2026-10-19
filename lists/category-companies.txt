@@ -5164,6 +5164,9 @@ kobbeatssbydredk.com
 koddobra.ru
 kopfhorergunstigshop.com
 koukoku.jp
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+kp.yandex.net
 kpinsurances.com
 krosspictures.com
 krux.com

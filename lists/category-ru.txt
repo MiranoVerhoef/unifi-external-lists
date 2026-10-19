@@ -834,6 +834,9 @@ koronapay.com
 koshelek.app
 koshelev-bank.ru
 kostroma.ru
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+kp.yandex.net
 krasnodar.su
 krasnoeibeloe.ru
 krasnoyarsk.ru

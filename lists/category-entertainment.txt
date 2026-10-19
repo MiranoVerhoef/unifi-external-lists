@@ -944,6 +944,9 @@ konamiopen.jp
 konamisportsclub.jp
 konamistyle.jp
 koubaibu.jp
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+kp.yandex.net
 kpacg.com
 kraftonde.com
 kyurem.com
