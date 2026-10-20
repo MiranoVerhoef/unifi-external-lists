@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f",
+  "upstream_revision": "fc07026f0c8450e9b9c1c7b87b90aa4b83b82416",
   "total_lists": 1548,
   "published_lists": 1542,
   "omitted_lists": 6,
@@ -1974,7 +1974,7 @@
     },
     "category-medicine-ru": {
       "status": "published",
-      "domain_count": 34,
+      "domain_count": 45,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2121,
+      "domain_count": 2132,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
