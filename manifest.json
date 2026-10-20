@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "163c0616e2bd4508a80e3edfb8bedf02fadddca8",
+  "upstream_revision": "497bef95124ac98a70ed865bb8aaaa8e9a4ff66e",
   "total_lists": 1548,
   "published_lists": 1542,
   "omitted_lists": 6,
@@ -819,7 +819,7 @@
     },
     "avito": {
       "status": "published",
-      "domain_count": 3,
+      "domain_count": 5,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1715,21 +1715,21 @@
     },
     "category-ecommerce": {
       "status": "published",
-      "domain_count": 1314,
+      "domain_count": 1316,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 4
     },
     "category-ecommerce-ru": {
       "status": "published",
-      "domain_count": 199,
+      "domain_count": 201,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-education-cn": {
       "status": "published",
-      "domain_count": 196,
+      "domain_count": 198,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2134,
+      "domain_count": 2136,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -2646,7 +2646,7 @@
     },
     "cn": {
       "status": "published",
-      "domain_count": 8312,
+      "domain_count": 8314,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 49
@@ -4151,14 +4151,14 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25776,
+      "domain_count": 25778,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
     },
     "geolocation-cn": {
       "status": "published",
-      "domain_count": 8312,
+      "domain_count": 8314,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 18
@@ -9975,7 +9975,7 @@
     },
     "vokino": {
       "status": "published",
-      "domain_count": 23,
+      "domain_count": 24,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
