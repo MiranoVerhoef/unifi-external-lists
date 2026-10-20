@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "fc07026f0c8450e9b9c1c7b87b90aa4b83b82416",
+  "upstream_revision": "163c0616e2bd4508a80e3edfb8bedf02fadddca8",
   "total_lists": 1548,
   "published_lists": 1542,
   "omitted_lists": 6,
@@ -1911,7 +1911,7 @@
     },
     "category-ip-geo-detect": {
       "status": "published",
-      "domain_count": 239,
+      "domain_count": 1682,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2132,
+      "domain_count": 2134,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
