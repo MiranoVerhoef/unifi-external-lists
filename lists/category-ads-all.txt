@@ -620,6 +620,7 @@ ns1p.net
 nsclick.baidu.com
 nsclickvideo.baidu.com
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 o4504926511693824.ingest.sentry.io
 obs.mts.ru
 oc.umeng.com

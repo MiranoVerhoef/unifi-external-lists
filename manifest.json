@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "497bef95124ac98a70ed865bb8aaaa8e9a4ff66e",
-  "total_lists": 1548,
-  "published_lists": 1542,
+  "upstream_revision": "e8f6d1e5c4a01cda943c0784ffa834340eeab5ae",
+  "total_lists": 1549,
+  "published_lists": 1543,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -546,7 +546,7 @@
     },
     "anthropic": {
       "status": "published",
-      "domain_count": 9,
+      "domain_count": 19,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1470,21 +1470,21 @@
     },
     "category-ads": {
       "status": "published",
-      "domain_count": 842,
+      "domain_count": 843,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ads-all": {
       "status": "published",
-      "domain_count": 902,
+      "domain_count": 903,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ads-and-telemetry": {
       "status": "published",
-      "domain_count": 848,
+      "domain_count": 849,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1498,14 +1498,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 193,
+      "domain_count": 204,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 193,
+      "domain_count": 204,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1645,7 +1645,7 @@
     },
     "category-communication": {
       "status": "published",
-      "domain_count": 149,
+      "domain_count": 160,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1778,7 +1778,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2130,
+      "domain_count": 2131,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -2212,7 +2212,7 @@
     },
     "category-speedtest": {
       "status": "published",
-      "domain_count": 77,
+      "domain_count": 79,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -3918,6 +3918,13 @@
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
+    "fluxer": {
+      "status": "published",
+      "domain_count": 11,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
     "flyio": {
       "status": "published",
       "domain_count": 3,
@@ -4151,7 +4158,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25778,
+      "domain_count": 25801,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -7161,7 +7168,7 @@
     },
     "openai": {
       "status": "published",
-      "domain_count": 23,
+      "domain_count": 24,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -9632,7 +9639,7 @@
     },
     "twitch": {
       "status": "published",
-      "domain_count": 34,
+      "domain_count": 35,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

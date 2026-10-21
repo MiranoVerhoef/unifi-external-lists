@@ -36,6 +36,17 @@ discordstatus.com
 element.io
 fbmessenger.com
 fluffychat.im
+fluxer.app
+fluxer.com
+fluxer.dev
+fluxer.gg
+fluxer.gift
+fluxer.media
+fluxer.tools
+fluxerapp.com
+fluxerstatic.com
+fluxerstatus.com
+fluxerusercontent.com
 fragment.com
 freenode.net
 gcld-line.com
