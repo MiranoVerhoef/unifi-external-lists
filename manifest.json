@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "e8f6d1e5c4a01cda943c0784ffa834340eeab5ae",
-  "total_lists": 1549,
-  "published_lists": 1543,
+  "upstream_revision": "5b6a77d14fb904a1255f02e2e1b2bcc36ed31f83",
+  "total_lists": 1551,
+  "published_lists": 1545,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -1673,7 +1673,7 @@
     },
     "category-cryptocurrency": {
       "status": "published",
-      "domain_count": 235,
+      "domain_count": 240,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 668,
+      "domain_count": 673,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1715,7 +1715,7 @@
     },
     "category-ecommerce": {
       "status": "published",
-      "domain_count": 1316,
+      "domain_count": 1325,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 4
@@ -1778,7 +1778,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2131,
+      "domain_count": 2139,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -1820,7 +1820,7 @@
     },
     "category-forums": {
       "status": "published",
-      "domain_count": 110,
+      "domain_count": 111,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1855,14 +1855,14 @@
     },
     "category-games": {
       "status": "published",
-      "domain_count": 1144,
+      "domain_count": 1151,
       "skipped_regex": 4,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
     },
     "category-games-!cn": {
       "status": "published",
-      "domain_count": 861,
+      "domain_count": 868,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1967,7 +1967,7 @@
     },
     "category-media-ru-blocked": {
       "status": "published",
-      "domain_count": 131,
+      "domain_count": 132,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2136,
+      "domain_count": 2140,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -3358,6 +3358,13 @@
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
+    "dsn-host": {
+      "status": "published",
+      "domain_count": 3,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
     "duckduckgo": {
       "status": "published",
       "domain_count": 44,
@@ -3732,6 +3739,13 @@
     "fandom": {
       "status": "published",
       "domain_count": 12,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
+    "fanfiction": {
+      "status": "published",
+      "domain_count": 1,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4158,7 +4172,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25801,
+      "domain_count": 25828,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -5593,7 +5607,7 @@
     },
     "kinopub": {
       "status": "published",
-      "domain_count": 17,
+      "domain_count": 18,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -8862,7 +8876,7 @@
     },
     "steam": {
       "status": "published",
-      "domain_count": 60,
+      "domain_count": 61,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10101,7 +10115,7 @@
     },
     "wargaming": {
       "status": "published",
-      "domain_count": 11,
+      "domain_count": 12,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

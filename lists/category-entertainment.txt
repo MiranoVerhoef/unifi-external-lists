@@ -601,6 +601,7 @@ famitsu.com
 fanatical.com
 fanbox.cc
 fandango.com
+fanfiction.net
 fanfictionero.com
 fast.com
 favoritescc-hamivideo2.cdn.hinet.net
@@ -641,6 +642,7 @@ gaijin.net
 gaijinent.com
 game-repack.site
 gameapps.hk
+gamebanana.com
 gamebase.com.tw
 gamebiz.jp
 gamebusiness.jp
@@ -1392,6 +1394,7 @@ quanben.io
 quiltmc.org
 quixel.com
 quixel.se
+r2modman.com
 radgametools.com
 radiko-cf.com
 radiko.jp
@@ -1632,6 +1635,7 @@ steamdeck.com
 steamgames.com
 steaminventoryhelper.com
 steammobile.akamaized.net
+steamos.cloud
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
@@ -1703,6 +1707,8 @@ thewonderful101.com
 thisisgame.com
 thisispolaris.com
 thumbnail-hamivideo.cdn.hinet.net
+thunderstore.io
+thunderstore.org
 tiberiumalliances.com
 tiburon.com
 tidal.com
@@ -1889,10 +1895,12 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldseriesofwarzone.com
 wotblitz.com
 wowsblitz.com
+wplace.live
 ws-blau.com
 ws-tcg.com
 ws.audioscrobbler.com

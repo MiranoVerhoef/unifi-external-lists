@@ -39,6 +39,7 @@ steamcontent.com
 steamdeck.com
 steamgames.com
 steammobile.akamaized.net
+steamos.cloud
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
