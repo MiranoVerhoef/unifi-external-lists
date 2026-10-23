@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "5b6a77d14fb904a1255f02e2e1b2bcc36ed31f83",
+  "upstream_revision": "597956ad5d1c063d80329d58a6aaadf6dcec43a7",
   "total_lists": 1551,
   "published_lists": 1545,
   "omitted_lists": 6,
@@ -2212,7 +2212,7 @@
     },
     "category-speedtest": {
       "status": "published",
-      "domain_count": 79,
+      "domain_count": 327,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -7168,7 +7168,7 @@
     },
     "ookla-speedtest": {
       "status": "published",
-      "domain_count": 13,
+      "domain_count": 20,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -7217,7 +7217,7 @@
     },
     "openspeedtest": {
       "status": "published",
-      "domain_count": 2,
+      "domain_count": 4,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -8743,7 +8743,7 @@
     },
     "speedtest": {
       "status": "published",
-      "domain_count": 13,
+      "domain_count": 20,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
