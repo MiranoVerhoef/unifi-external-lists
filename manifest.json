@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "9cad4889b6f1c51bd84cb8a0d95dbc1a992251a4",
+  "upstream_revision": "44e37212c1154407744543bd1ea5e5750fd44902",
   "total_lists": 1552,
   "published_lists": 1546,
   "omitted_lists": 6,
@@ -329,7 +329,7 @@
     },
     "agora": {
       "status": "published",
-      "domain_count": 3,
+      "domain_count": 5,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -609,7 +609,7 @@
     },
     "apple": {
       "status": "published",
-      "domain_count": 1808,
+      "domain_count": 1807,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -1470,21 +1470,21 @@
     },
     "category-ads": {
       "status": "published",
-      "domain_count": 843,
+      "domain_count": 844,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ads-all": {
       "status": "published",
-      "domain_count": 903,
+      "domain_count": 904,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ads-and-telemetry": {
       "status": "published",
-      "domain_count": 849,
+      "domain_count": 850,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1554,7 +1554,7 @@
     },
     "category-bank-cn": {
       "status": "published",
-      "domain_count": 132,
+      "domain_count": 136,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 3
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8669,
+      "domain_count": 8668,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1750,7 +1750,7 @@
     },
     "category-electronic-cn": {
       "status": "published",
-      "domain_count": 91,
+      "domain_count": 92,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1785,7 +1785,7 @@
     },
     "category-entertainment-cn": {
       "status": "published",
-      "domain_count": 927,
+      "domain_count": 926,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1855,7 +1855,7 @@
     },
     "category-games": {
       "status": "published",
-      "domain_count": 1158,
+      "domain_count": 1157,
       "skipped_regex": 4,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1869,7 +1869,7 @@
     },
     "category-games-cn": {
       "status": "published",
-      "domain_count": 283,
+      "domain_count": 282,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2142,21 +2142,21 @@
     },
     "category-scholar-!cn": {
       "status": "published",
-      "domain_count": 494,
+      "domain_count": 484,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
     },
     "category-scholar-cn": {
       "status": "published",
-      "domain_count": 94,
+      "domain_count": 96,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-scholar-hk": {
       "status": "published",
-      "domain_count": 43,
+      "domain_count": 33,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2401,7 +2401,7 @@
     },
     "chaoxing": {
       "status": "published",
-      "domain_count": 33,
+      "domain_count": 35,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2653,7 +2653,7 @@
     },
     "cn": {
       "status": "published",
-      "domain_count": 8314,
+      "domain_count": 8333,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 49
@@ -3493,7 +3493,7 @@
     },
     "eduhk": {
       "status": "published",
-      "domain_count": 8,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,14 +4179,14 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25836,
+      "domain_count": 25825,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
     },
     "geolocation-cn": {
       "status": "published",
-      "domain_count": 8314,
+      "domain_count": 8333,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 18
@@ -4697,7 +4697,7 @@
     },
     "hkbu": {
       "status": "published",
-      "domain_count": 8,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4977,7 +4977,7 @@
     },
     "icloud": {
       "status": "published",
-      "domain_count": 56,
+      "domain_count": 55,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -9240,7 +9240,7 @@
     },
     "tencent-games": {
       "status": "published",
-      "domain_count": 86,
+      "domain_count": 85,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

@@ -473,6 +473,7 @@ a2z.org.cn
 a9vg.com
 aadcloud.cn
 aadcloud.com
+aaej.cn
 aaic.com.cn
 aaid.umeng.com
 aamgame.com
@@ -873,6 +874,7 @@ apk3.com
 apk8.com
 aplaybox.com
 apollo.auto
+app.moegirl.org.cn
 appchina.com
 appeeres.com
 appinn.com
@@ -1140,6 +1142,7 @@ biaoda.me
 bibaodao.com
 bidchance.com
 biddingx.com
+bigdatacq.com
 bigfun.cn
 bigfunapp.cn
 bigmodel.cn
@@ -1220,6 +1223,7 @@ bocamchina.com
 bocaviation.com
 boccfc.cc
 boccfc.cn
+bocd.com.cn
 boce.com
 bocfullertonbank.com
 bocgi.com
@@ -1644,6 +1648,8 @@ cdntips.net
 cdnv1.cn
 cdnv2.cn
 cdnv3.cn
+cdrcb.com
+cdrcbank.com
 cdut.top
 ce.cn
 ceair.com
@@ -1875,6 +1881,7 @@ clangcn.com
 clawhub-mirror.com
 clawhubmirror.com
 clawsentry.cn
+cldisk.com
 cleargrass.com
 clewm.net
 cli.im
@@ -2142,13 +2149,17 @@ cpu.baidu.com
 cqcb.com
 cqccn.com
 cqctyiptv.cn
+cqdcg.com
+cqge.com.cn
 cqhlw.cn
 cqliving.com
 cqn.com.cn
 cqnews.net
+cqsdlys.cn
 cqsjb.com
 cqtk.com.cn
 cqvip.com
+cqyyxc.com
 cr-cts.com
 cr173.com
 crash.163.com
@@ -2438,6 +2449,7 @@ didichuxing.com
 didistatic.com
 diditaxi.com.cn
 dig.bdurl.net
+digitalcnzz.com
 digitaling.com
 diiing.cn
 dili360.com
@@ -2674,6 +2686,7 @@ e.stat.ykimg.com
 e0n.cn
 eagsen.com
 easec.com.cn
+easemob.com
 easesale.com
 easiu.com
 eastday.com
@@ -3255,6 +3268,7 @@ govwza.cn
 gowinamc.com
 gpall.cn
 gpall.net
+gpzshq.cn
 gracg.com
 greatwallwine.com.cn
 gree.cn
@@ -3767,6 +3781,7 @@ iadmusicmat.music.126.net
 iadmusicmatvideo.music.126.net
 ialicdn.com
 iask.com
+ibangbank.com
 ibaotu.com
 ibcet.org
 ibdxiguaimg.com
@@ -3927,6 +3942,7 @@ ioppo.com.cn
 ioppo.net
 iot-tencent.com
 iotronic.tech
+ip.cn
 ip138.com
 ipanda.cn
 ipanda.com
@@ -3961,6 +3977,8 @@ isealsuite.com
 ishijue.com
 ishumei.com
 ishuqi.com
+isigning.cn
+isigning.com
 ispqcloud.com
 istoreos.com
 istv.cn
@@ -5105,8 +5123,6 @@ modelers.cn
 modernjs.cn
 modex.com.cn
 moedu.com
-moegirl.org
-moegirl.org.cn
 moer.cn
 mofang.com
 mofazhu.com
@@ -5248,6 +5264,7 @@ naixuecha.com
 nalrer.cn
 namiso.com
 nanhaicorp.com
+nanocorechip.com
 nanyuenews.com
 narwal.com
 narwaltech.com
@@ -6379,6 +6396,7 @@ sto.cn
 stocke.com.cn
 stockstar.com
 stointl.com
+storage.moegirl.org.cn
 stosolution.com
 study.163.com
 study360.com.cn
@@ -7770,6 +7788,7 @@ xuexi365.com
 xuexi365.com.cn
 xuexi365.net
 xuexicha.com
+xuexitong.com
 xundupdf.com
 xunfei.cn
 xunfeixxj.com
