@@ -90,6 +90,10 @@ candycrush.com
 capitalgames.com
 capturingreality.com
 cdngarenanow-a.akamaihd.net
+cdpred.services
+cdprojekt.com
+cdprojekt.red
+cdprojektred.com
 championshipseriesleague.com
 chillingo.com
 chunkbase.com
@@ -113,6 +117,7 @@ csgo.wmsj.cn
 cubicmotion.com
 cubicodyssey.game
 curseforge.com
+cyberpunk.net
 cygames.co.jp
 cygames.jp
 d1unuk07s6td74.cloudfront.net
@@ -483,6 +488,7 @@ play4free.com
 playapex.com
 playartifact.com
 playbattlegrounds.com
+playgwent.com
 playhearthstone.com
 playnintendo.com
 playoverwatch.com
@@ -731,6 +737,7 @@ thesims.com
 thesims3.com
 thesims4.com
 thesimssocial.com
+thewitcher.com
 thewonderful101.com
 thunderstore.io
 thunderstore.org

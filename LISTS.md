@@ -3,7 +3,7 @@
 Generated from [V2Fly domain-list-community](https://github.com/v2fly/domain-list-community).
 Unsupported regexes and keywords are omitted.
 
-Published lists: **1545** of **1551**.
+Published lists: **1546** of **1552**.
 
 | List | Domains | Skipped regex | Skipped keyword |
 | --- | ---: | ---: | ---: |
@@ -260,7 +260,7 @@ Published lists: **1545** of **1551**.
 | [category-emby](lists/category-emby.txt) | 83 | 0 | 0 |
 | [category-enhance-gaming](lists/category-enhance-gaming.txt) | 18 | 0 | 0 |
 | [category-enterprise-query-platform-cn](lists/category-enterprise-query-platform-cn.txt) | 13 | 0 | 0 |
-| [category-entertainment](lists/category-entertainment.txt) | 2139 | 10 | 0 |
+| [category-entertainment](lists/category-entertainment.txt) | 2146 | 10 | 0 |
 | [category-entertainment-cn](lists/category-entertainment-cn.txt) | 927 | 1 | 0 |
 | [category-entertainment-ru](lists/category-entertainment-ru.txt) | 34 | 0 | 0 |
 | [category-finance](lists/category-finance.txt) | 658 | 0 | 0 |
@@ -271,8 +271,8 @@ Published lists: **1545** of **1551**.
 | [category-forums-ru](lists/category-forums-ru.txt) | 11 | 0 | 0 |
 | [category-game-accelerator-cn](lists/category-game-accelerator-cn.txt) | 45 | 0 | 0 |
 | [category-game-platforms-download](lists/category-game-platforms-download.txt) | 491 | 0 | 0 |
-| [category-games](lists/category-games.txt) | 1151 | 4 | 0 |
-| [category-games-!cn](lists/category-games-!cn.txt) | 868 | 3 | 0 |
+| [category-games](lists/category-games.txt) | 1158 | 4 | 0 |
+| [category-games-!cn](lists/category-games-!cn.txt) | 875 | 3 | 0 |
 | [category-games-cn](lists/category-games-cn.txt) | 283 | 1 | 0 |
 | [category-gov-ir](lists/category-gov-ir.txt) | 29 | 0 | 0 |
 | [category-gov-ru](lists/category-gov-ru.txt) | 145 | 0 | 0 |
@@ -342,6 +342,7 @@ Published lists: **1545** of **1551**.
 | [cctv](lists/cctv.txt) | 44 | 0 | 0 |
 | [cdek](lists/cdek.txt) | 3 | 0 | 0 |
 | [cdn77](lists/cdn77.txt) | 2 | 0 | 0 |
+| [cdprojekt](lists/cdprojekt.txt) | 7 | 0 | 0 |
 | [ceno](lists/ceno.txt) | 2 | 0 | 0 |
 | [cerebras](lists/cerebras.txt) | 1 | 0 | 0 |
 | [cern](lists/cern.txt) | 6 | 0 | 0 |
@@ -602,7 +603,7 @@ Published lists: **1545** of **1551**.
 | [geetest](lists/geetest.txt) | 2 | 0 | 0 |
 | [gemfury](lists/gemfury.txt) | 6 | 0 | 0 |
 | [genotek-ru](lists/genotek-ru.txt) | 9 | 0 | 0 |
-| [geolocation-!cn](lists/geolocation-!cn.txt) | 25829 | 158 | 0 |
+| [geolocation-!cn](lists/geolocation-!cn.txt) | 25836 | 158 | 0 |
 | [geolocation-cn](lists/geolocation-cn.txt) | 8314 | 3 | 0 |
 | [gettyimages](lists/gettyimages.txt) | 25 | 0 | 0 |
 | [getui](lists/getui.txt) | 7 | 0 | 0 |

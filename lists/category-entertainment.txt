@@ -248,6 +248,10 @@ cdn-spotify-experiments.conductrics.com
 cdngarenanow-a.akamaihd.net
 cdnvideo.ru
 cdnvideohub.com
+cdpred.services
+cdprojekt.com
+cdprojekt.red
+cdprojektred.com
 cf-vanguard.com
 championshipseriesleague.com
 charlotte-anime.jp
@@ -294,6 +298,7 @@ cubicmotion.com
 cubicodyssey.game
 curseforge.com
 cxacg.com
+cyberpunk.net
 cygames.co.jp
 cygames.jp
 d1d0w7op819ely.cloudfront.net
@@ -1315,6 +1320,7 @@ playapex.com
 playartifact.com
 playbattlegrounds.com
 playfamily.ru
+playgwent.com
 playhearthstone.com
 playmation.com
 playnintendo.com
@@ -1703,6 +1709,7 @@ thesimssocial.com
 thestationbymaker.com
 thetvdb.com
 thewaltdisneycompany.com
+thewitcher.com
 thewonderful101.com
 thisisgame.com
 thisispolaris.com
