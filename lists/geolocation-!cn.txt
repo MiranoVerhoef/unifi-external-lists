@@ -164,6 +164,7 @@
 1password.co
 1password.com
 1password.community
+1password.dev
 1password.drift.click
 1password.eu
 1password.io

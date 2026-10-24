@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "597956ad5d1c063d80329d58a6aaadf6dcec43a7",
+  "upstream_revision": "3119c9698e93ecf05b388a69b031beb2d2364a53",
   "total_lists": 1551,
   "published_lists": 1545,
   "omitted_lists": 6,
@@ -322,7 +322,7 @@
     },
     "agilebits": {
       "status": "published",
-      "domain_count": 14,
+      "domain_count": 15,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2079,7 +2079,7 @@
     },
     "category-password-management": {
       "status": "published",
-      "domain_count": 31,
+      "domain_count": 32,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4172,7 +4172,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25828,
+      "domain_count": 25829,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
