@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "44e37212c1154407744543bd1ea5e5750fd44902",
+  "upstream_revision": "664598567e92d797bea11bb83cf939d1f37e9512",
   "total_lists": 1552,
   "published_lists": 1546,
   "omitted_lists": 6,
@@ -1995,7 +1995,7 @@
     },
     "category-netdisk-!cn": {
       "status": "published",
-      "domain_count": 50,
+      "domain_count": 59,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -3346,7 +3346,7 @@
     },
     "dropbox": {
       "status": "published",
-      "domain_count": 16,
+      "domain_count": 25,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25825,
+      "domain_count": 25834,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -4599,7 +4599,7 @@
     },
     "hdrezka": {
       "status": "published",
-      "domain_count": 11,
+      "domain_count": 16,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

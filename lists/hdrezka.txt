@@ -8,4 +8,9 @@ hdrezka.org
 hdrezka.site
 hdrzk.org
 rezka.ag
+rezka.fi
+static.voidboost.com
+statichdrezka.ac
 stream.voidboost.cc
+stream.voidboost.one
+voidslam.org

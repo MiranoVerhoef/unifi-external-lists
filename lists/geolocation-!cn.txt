@@ -729,6 +729,7 @@ addthis.com
 addthiscdn.com
 addthisedge.com
 addtoany.com
+addtodropbox.com
 adelaidenow.com.au
 adeventtracker.spotify.com
 adfox.ru
@@ -6294,6 +6295,7 @@ darwinsource.com
 darwinsource.org
 darwinsourcecode.com
 dasaob.online
+dash.ai
 dashlane.com
 dashly.app
 dashly.help
@@ -7075,6 +7077,7 @@ docs.com
 docs.new
 docs.rs
 docs.rw
+docsend.com
 doctor-videos.com
 documentforce.com
 dodgersexcartoons.com
@@ -7259,15 +7262,19 @@ dronedj.com
 dropbox-dns.com
 dropbox.com
 dropbox.tech
+dropbox.zendesk.com
 dropboxapi.com
 dropboxbusiness.com
 dropboxcaptcha.com
+dropboxexperiment.com
 dropboxforum.com
 dropboxforums.com
 dropboxinsiders.com
+dropboxlegal.com
 dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
+dropboxteam.com
 dropboxusercontent.com
 drpc.org
 drtuber.com
@@ -10820,8 +10827,10 @@ heise360181.buzz
 heise360182.buzz
 helixstudios.net
 helloavgirls.com
+hellofax.com
 hellokittybeats.com
 hellomoto.com
+hellosign.com
 hellosmartbook.com
 hellporno.com
 hellven.net
