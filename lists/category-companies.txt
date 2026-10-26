@@ -973,6 +973,9 @@ appmetrica.yango.com
 apps.mzstatic.com
 apps5.oingo.com
 appserviceenvironment.cn
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appsmail.ru
 appspot.com
 appsto.re
@@ -2438,6 +2441,7 @@ dashly.me
 dashlytrack.app
 dashwood360.com
 data.com
+data.microsoft.com
 datacloudmy.com
 dataframeworks.com
 dataliberation.org
@@ -2447,6 +2451,8 @@ daumkakao.io
 daumpcbang.com
 david-laserscanner.com
 dbo-dengi.online
+dc.applicationinsights.azure.com
+dc.services.visualstudio.com
 dc1-cert.ksn.kaspersky-labs.com
 dc1-file.ksn.kaspersky-labs.com
 dc1-pp.ksn.kaspersky-labs.com
@@ -4527,6 +4533,7 @@ impala-media-production.s3.amazonaws.com
 impermium.com
 imstagram.com
 imtagram.com
+in.applicationinsights.azure.com
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
@@ -5252,6 +5259,7 @@ lineshoppingseller.com
 linetv.tw
 lionhearts.co.kr
 list.ru
+live.applicationinsights.azure.com
 live.com
 live.com.au
 live.eu
@@ -6707,6 +6715,7 @@ routerboard.com
 rs.mail.ru
 rsm.download.prss.microsoft.com
 rt.ru
+rt.services.visualstudio.com
 ruhub.tv
 run.app
 russiandesigncup.ru
@@ -7389,6 +7398,7 @@ tehnodom.com
 tele2.ru
 telega.info
 telega.me
+telemetry.microsoft.com
 telerik.com
 tellmewhygame.com
 tenbin.ai

@@ -7,6 +7,7 @@ bingsettingssearch.trafficmanager.net
 blazor.net
 botframework.com
 codethemicrobit.com
+dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 devopsassessment.net
@@ -47,6 +48,7 @@ psg-int-eastus.cloudapp.net
 pwabuilder.com
 reactorms.com.cn
 rink.hockeyapp.net
+rt.services.visualstudio.com
 sankie.net
 sqlserveronlinux.com
 timelinestoryteller.com

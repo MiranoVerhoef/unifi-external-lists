@@ -20,6 +20,7 @@ floorp.app
 iridiumbrowser.de
 kiwibrowser.com
 kmeleonbrowser.org
+librewolf.dev
 librewolf.net
 minbrowser.org
 mozilla-ohttp.fastly-edge.com

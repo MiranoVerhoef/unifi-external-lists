@@ -107,6 +107,7 @@ dart.dev
 dartlang.org
 dartpad.dev
 datalore.io
+dc.services.visualstudio.com
 debian.org
 default.exp-tas.com
 deno.com
@@ -530,6 +531,7 @@ rocksdb.net
 rocksdb.org
 rockylinux.org
 rpmfusion.org
+rt.services.visualstudio.com
 ruby-lang.org
 rubygems.org
 rust-lang.org

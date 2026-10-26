@@ -10,6 +10,9 @@ antigravity-pa.googleapis.com
 antigravity-unleash.goog
 antigravity.google
 antigravity.googleapis.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 bard.google.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com

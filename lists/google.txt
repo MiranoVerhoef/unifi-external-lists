@@ -58,6 +58,9 @@ appbridge.ca
 appbridge.io
 appbridge.it
 apps5.oingo.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appspot.com
 apture.com
 area120.com

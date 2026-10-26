@@ -1719,7 +1719,6 @@ ampproject.net
 ampproject.org
 ams.org
 ams02.space
-ams2.test-ipv6.com
 amsterdamhotescort.com
 amsterdamluxescort.com
 amytele.com
@@ -2322,6 +2321,9 @@ approvedusedbmw.com
 apps.mzstatic.com
 apps5.oingo.com
 appserviceenvironment.cn
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appsmail.ru
 appsonebay.net
 appspot.com
@@ -6307,6 +6309,7 @@ dastanhisexy.cc
 dat.foundation
 data-tscbank.ru
 data.com
+data.microsoft.com
 databank.ru
 databank.worldbank.org
 database.asahi.com
@@ -6340,6 +6343,8 @@ db.tt
 dba.dk
 dbmoscow.ru
 dbo-dengi.online
+dc.applicationinsights.azure.com
+dc.services.visualstudio.com
 dc1-cert.ksn.kaspersky-labs.com
 dc1-file.ksn.kaspersky-labs.com
 dc1-pp.ksn.kaspersky-labs.com
@@ -9261,7 +9266,6 @@ fpo.xxx
 fptolia.com
 fqcebook.com
 fr-beatsbydrestore.com
-fra.test-ipv6.com
 fracebook.com
 fragment.com
 fragrancebay.com
@@ -12060,6 +12064,7 @@ imtagram.com
 imtintl.com
 imzog.com
 in-bank.ru
+in.applicationinsights.azure.com
 inaporn.com
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
@@ -13724,6 +13729,7 @@ liboggirls.net
 library.lol
 librarylovefest.com
 libraryofthumbs.com
+librewolf.dev
 librewolf.net
 libsolutions.app
 libsolutions.domains
@@ -13824,6 +13830,7 @@ liuhefabu.club
 liv.ac.uk
 live-patreon-marketing.pantheonsite.io
 live-video.net
+live.applicationinsights.azure.com
 live.com
 live.com.au
 live.eu
@@ -19402,6 +19409,7 @@ rt-school.online
 rt.com
 rt.rs
 rt.ru
+rt.services.visualstudio.com
 rtarabic.com
 rtarabic.net
 rtarabic.org
@@ -20467,7 +20475,6 @@ siteripz.com
 siteripz.net
 situero.com
 six9dy.pw
-sixte.st
 sjcollect.com
 sjhsp1.buzz
 skate2.com
@@ -21683,6 +21690,7 @@ telegram.org
 telegram.space
 telekom.com
 telekom.de
+telemetry.microsoft.com
 telerik.com
 telesco.pe
 telesec.de
@@ -21728,30 +21736,6 @@ teslamotors.cn
 teslamotors.com
 teslamotors.com.cn
 teslazta.net
-test-ipv6.alpinedc.ch
-test-ipv6.arauc.br
-test-ipv6.belwue.net
-test-ipv6.carnet.hr
-test-ipv6.cl
-test-ipv6.com
-test-ipv6.cs.umd.edu
-test-ipv6.csclub.uwaterloo.ca
-test-ipv6.cz
-test-ipv6.epic.network
-test-ipv6.fratec.net
-test-ipv6.freerangecloud.com
-test-ipv6.go6.si
-test-ipv6.hu
-test-ipv6.is
-test-ipv6.iu13.net
-test-ipv6.ke.liquidtelecom.net
-test-ipv6.noroutetohost.net
-test-ipv6.roedu.net
-test-ipv6.se
-test-ipv6.sin.vr.org
-test-ipv6.ttk.ru
-testipv6.cn
-testipv6.de
 testonfox.com
 tetrika-school.ru
 tettediferro.it

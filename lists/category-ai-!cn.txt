@@ -16,6 +16,9 @@ antigravity.google
 antigravity.googleapis.com
 antspace.dev
 anythingllm.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 arena.ai
 bard.google.com
 browser-intake-datadoghq.com

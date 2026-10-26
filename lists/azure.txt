@@ -112,9 +112,12 @@ chinacloudapp.cn
 chinacloudsites.cn
 cosmosdb.info
 cosmosdb.net
+dc.applicationinsights.azure.com
 devopsms.com
 gotcosmos.com
 hdinsightservices.cn
+in.applicationinsights.azure.com
+live.applicationinsights.azure.com
 management-azure-devices-int.net
 management-azure-devices-provisioning.cn
 management-azure-devices.cn
