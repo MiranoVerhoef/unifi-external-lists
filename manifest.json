@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "59fc11726930a9fe9644bb59c6e794ab75ac9bd2",
+  "upstream_revision": "1b81d3cd34096e5d8cac6bca5935e80f30e990f0",
   "total_lists": 1553,
   "published_lists": 1547,
   "omitted_lists": 6,
@@ -609,7 +609,7 @@
     },
     "apple": {
       "status": "published",
-      "domain_count": 1807,
+      "domain_count": 1809,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -1498,14 +1498,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 212,
+      "domain_count": 213,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 212,
+      "domain_count": 213,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8678,
+      "domain_count": 8681,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25825,
+      "domain_count": 25828,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -6342,7 +6342,7 @@
     },
     "meta": {
       "status": "published",
-      "domain_count": 555,
+      "domain_count": 556,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

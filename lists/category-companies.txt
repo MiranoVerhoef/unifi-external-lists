@@ -5502,6 +5502,7 @@ mesu-china.apple.com.akadns.net
 mesu.apple.com
 meta.ai
 meta.com
+metaaiusercontent.com
 metaaivm.com
 metabora.io
 metacloud.com
@@ -6976,7 +6977,9 @@ sferum-dev.ru
 sferum.ru
 sforce.com
 sfx.ms
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 sharefile.com
 sharepoint.cn
 sharepoint.com

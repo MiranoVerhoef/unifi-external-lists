@@ -1650,7 +1650,9 @@ sequoia.apple.com
 services-apple.net
 servicetalk.io
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shazam.com
 shoers.com

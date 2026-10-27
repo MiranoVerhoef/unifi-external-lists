@@ -14655,6 +14655,7 @@ mesu.apple.com
 met-nude.com
 meta.ai
 meta.com
+metaaiusercontent.com
 metaaivm.com
 metabora.io
 metabrainz.org
@@ -20223,7 +20224,9 @@ sgp1.fun
 sgr.com.br
 sgspe.de
 sgspt.buzz
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 sh-xuxingda.com
 sh83.xyz
 shadbase.com
