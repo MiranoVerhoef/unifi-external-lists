@@ -20,6 +20,7 @@ appsgenaiserver-pa.clients.google.com
 appsgenaiserver-pa.clients6.google.com
 appsgenaiserver-pa.googleapis.com
 arena.ai
+artificialanalysis.ai
 bard.google.com
 browser-intake-datadoghq.com
 cerebras.ai
@@ -46,6 +47,7 @@ claudepages.dev
 claudestudio.com
 claudeusercontent.com
 clawhub.ai
+cline.bot
 clipdrop.co
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
@@ -58,6 +60,8 @@ cohere.com
 comfy.org
 comfyci.org
 comfyregistry.org
+commandcode.ai
+context7.com
 copilot-proxy.githubusercontent.com
 copilot-stg.com
 copilot-telemetry-service.githubusercontent.com
@@ -149,6 +153,7 @@ notebooklm.google
 notebooklm.google.com
 notebooklm.googleapis.com
 notegpt.io
+nousresearch.com
 novelai.net
 o33249.ingest.sentry.io
 o33249.ingest.us.sentry.io

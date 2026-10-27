@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "fa3cb96fbc210b8d6466251a1d71b4a6e63a9c85",
+  "upstream_revision": "59fc11726930a9fe9644bb59c6e794ab75ac9bd2",
   "total_lists": 1553,
   "published_lists": 1547,
   "omitted_lists": 6,
@@ -1498,14 +1498,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 207,
+      "domain_count": 212,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 207,
+      "domain_count": 212,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1799,7 +1799,7 @@
     },
     "category-finance": {
       "status": "published",
-      "domain_count": 658,
+      "domain_count": 660,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25818,
+      "domain_count": 25825,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -8302,7 +8302,7 @@
     },
     "schwab": {
       "status": "published",
-      "domain_count": 8,
+      "domain_count": 9,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
