@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "1b81d3cd34096e5d8cac6bca5935e80f30e990f0",
+  "upstream_revision": "333d8a1810d04600bcb00870155a369954ed37f5",
   "total_lists": 1553,
   "published_lists": 1547,
   "omitted_lists": 6,
@@ -1778,7 +1778,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2146,
+      "domain_count": 2147,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -1792,7 +1792,7 @@
     },
     "category-entertainment-ru": {
       "status": "published",
-      "domain_count": 34,
+      "domain_count": 35,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2140,
+      "domain_count": 2141,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25828,
+      "domain_count": 25829,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
