@@ -16,6 +16,7 @@ activision.com
 activisionblizzard.com
 activisionblizzardmedia.com
 alibaba.cdn.steampipe.steamcontent.com
+amdgaming.com
 amiibo.com
 anthemgame.com
 anthemthegame.com

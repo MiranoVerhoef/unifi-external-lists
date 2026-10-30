@@ -81,6 +81,7 @@ amc.com
 amcn.com
 amcnetworks.com
 amcplus.com
+amdgaming.com
 ameba.jp
 amebame.com
 amebaownd.com
@@ -1737,11 +1738,14 @@ tiktokeu-cdn.com
 tiktokglobalshopv.com
 tiktokminis.us
 tiktokrow-cdn.com
+tiktokshop.com
+tiktokstaticb.com
 tiktokv.com
 tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
 tiktokv.eu
 tiktokv.us
+tiktokvapp.com
 tiktokw.eu
 tiktokw.us
 titanfall.com
