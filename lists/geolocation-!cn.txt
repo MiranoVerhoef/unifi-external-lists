@@ -9943,6 +9943,7 @@ githubapp.com
 githubassets.com
 githubcopilot.com
 githubhackathon.com
+githubhelp.com
 githubnext.com
 githubpreview.dev
 githubstatus.com
