@@ -594,6 +594,7 @@ tendbcluster.com
 tendis.net
 tengmed.com
 tenpay.com
+tenpayglobal.com
 testjrzk.net.cn
 testmeet.cn
 testwaf.com
@@ -656,6 +657,8 @@ weixinbridge.com
 weixinsxy.com
 weiyun.com
 werepository.com.cn
+wesure.cn
+wesure100.com
 wetv.qq.com
 wetv.vip
 wetvinfo.com

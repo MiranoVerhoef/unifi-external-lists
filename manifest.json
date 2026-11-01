@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "1daade8c4bb957d21d1f5c09c2b050d699e8e96c",
-  "total_lists": 1553,
-  "published_lists": 1547,
+  "upstream_revision": "01add61fbaf719b55673d969615cd328e80f214c",
+  "total_lists": 1554,
+  "published_lists": 1548,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -392,7 +392,7 @@
     },
     "alibaba": {
       "status": "published",
-      "domain_count": 460,
+      "domain_count": 463,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 4
@@ -1351,7 +1351,7 @@
     },
     "bytedance": {
       "status": "published",
-      "domain_count": 960,
+      "domain_count": 963,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1512,7 +1512,7 @@
     },
     "category-ai-cn": {
       "status": "published",
-      "domain_count": 119,
+      "domain_count": 120,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1617,7 +1617,7 @@
     },
     "category-cas": {
       "status": "published",
-      "domain_count": 256,
+      "domain_count": 258,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 675,
+      "domain_count": 690,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1750,7 +1750,7 @@
     },
     "category-electronic-cn": {
       "status": "published",
-      "domain_count": 92,
+      "domain_count": 97,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1778,7 +1778,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2151,
+      "domain_count": 2152,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -1813,7 +1813,7 @@
     },
     "category-food-cn": {
       "status": "published",
-      "domain_count": 62,
+      "domain_count": 66,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1855,14 +1855,14 @@
     },
     "category-games": {
       "status": "published",
-      "domain_count": 1158,
+      "domain_count": 1159,
       "skipped_regex": 4,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
     },
     "category-games-!cn": {
       "status": "published",
-      "domain_count": 876,
+      "domain_count": 877,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -2443,14 +2443,14 @@
     },
     "chinabroadnet": {
       "status": "published",
-      "domain_count": 8,
+      "domain_count": 9,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "chinamobile": {
       "status": "published",
-      "domain_count": 35,
+      "domain_count": 39,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2485,7 +2485,7 @@
     },
     "chinatelecom": {
       "status": "published",
-      "domain_count": 20,
+      "domain_count": 21,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2653,7 +2653,7 @@
     },
     "cn": {
       "status": "published",
-      "domain_count": 8338,
+      "domain_count": 8362,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 49
@@ -3311,7 +3311,7 @@
     },
     "doubao": {
       "status": "published",
-      "domain_count": 32,
+      "domain_count": 33,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,14 +4179,14 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25836,
+      "domain_count": 25845,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
     },
     "geolocation-cn": {
       "status": "published",
-      "domain_count": 8338,
+      "domain_count": 8362,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 18
@@ -9233,7 +9233,7 @@
     },
     "tencent": {
       "status": "published",
-      "domain_count": 700,
+      "domain_count": 703,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10003,7 +10003,7 @@
     },
     "vodafone": {
       "status": "published",
-      "domain_count": 9,
+      "domain_count": 11,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10165,6 +10165,13 @@
     "webex": {
       "status": "published",
       "domain_count": 16,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
+    "webflow": {
+      "status": "published",
+      "domain_count": 4,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

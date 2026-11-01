@@ -29,6 +29,10 @@ migufun.com
 miguvideo.com
 mmarket.com
 mmarket6.com
+mnc000.mcc460.pub.3gppnetwork.org
+mnc002.mcc460.pub.3gppnetwork.org
+mnc004.mcc460.pub.3gppnetwork.org
+mnc007.mcc460.pub.3gppnetwork.org
 online-cmcc.cn
 speedtest.hk.chinamobile.com
 speedtestbb.hk.chinamobile.com

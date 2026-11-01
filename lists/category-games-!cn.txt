@@ -688,6 +688,7 @@ steamgames.com
 steaminventoryhelper.com
 steammobile.akamaized.net
 steamos.cloud
+steampeek.hu
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net

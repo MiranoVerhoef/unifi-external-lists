@@ -7,6 +7,7 @@ anlaiye.com.cn
 bkchina.cn
 brightdairy.com
 brighticecream.com
+busyming.com
 chinabdh.com
 chinacow.com
 chinatea.com.cn
@@ -17,6 +18,7 @@ hacl.cn
 haidilao.com
 hdlcdns.com
 heytea.com
+hnlshm.com
 hophing.cn
 hophing.com.cn
 hwwt8.com
@@ -42,6 +44,7 @@ micun.com
 mxbc.com
 mxbc.net
 nongfuspring.com
+qiaqiafood.com
 qmai.cn
 qmai.com
 qmimg.cn
@@ -60,3 +63,4 @@ yili.com
 yst.com.cn
 yumchina.com
 yyds.co
+zymls.com

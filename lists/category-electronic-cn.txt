@@ -1,9 +1,11 @@
+allwinnertech.com
 analog.com
 arrow.cn
 avermedia.cn
 boe.com
 boe.com.cn
 bouffalolab.com
+cambricon.com
 cxmt.com
 eda.cn
 elecfans.com
@@ -57,6 +59,7 @@ lckfb.com
 listenai.com
 maixhub.com
 moedu.com
+mthreads.com
 nanocorechip.com
 oshwhub.com
 quecmall.cn
@@ -68,9 +71,11 @@ seeed.cn
 seeed.com.cn
 seeedstudio.com.cn
 sipeed.com
+southchip.com
 sz-jlc.com
 szjlc.cn
 szlcsc.com
+t-head.cn
 thunis.com
 ti.com.cn
 tsinghuaic.com
