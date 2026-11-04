@@ -3,7 +3,7 @@
 Generated from [V2Fly domain-list-community](https://github.com/v2fly/domain-list-community).
 Unsupported regexes and keywords are omitted.
 
-Published lists: **1548** of **1554**.
+Published lists: **1549** of **1555**.
 
 | List | Domains | Skipped regex | Skipped keyword |
 | --- | ---: | ---: | ---: |
@@ -260,7 +260,7 @@ Published lists: **1548** of **1554**.
 | [category-emby](lists/category-emby.txt) | 83 | 0 | 0 |
 | [category-enhance-gaming](lists/category-enhance-gaming.txt) | 18 | 0 | 0 |
 | [category-enterprise-query-platform-cn](lists/category-enterprise-query-platform-cn.txt) | 13 | 0 | 0 |
-| [category-entertainment](lists/category-entertainment.txt) | 2152 | 10 | 0 |
+| [category-entertainment](lists/category-entertainment.txt) | 2157 | 10 | 0 |
 | [category-entertainment-cn](lists/category-entertainment-cn.txt) | 926 | 1 | 0 |
 | [category-entertainment-ru](lists/category-entertainment-ru.txt) | 35 | 0 | 0 |
 | [category-finance](lists/category-finance.txt) | 660 | 0 | 0 |
@@ -271,8 +271,8 @@ Published lists: **1548** of **1554**.
 | [category-forums-ru](lists/category-forums-ru.txt) | 11 | 0 | 0 |
 | [category-game-accelerator-cn](lists/category-game-accelerator-cn.txt) | 45 | 0 | 0 |
 | [category-game-platforms-download](lists/category-game-platforms-download.txt) | 491 | 0 | 0 |
-| [category-games](lists/category-games.txt) | 1159 | 4 | 0 |
-| [category-games-!cn](lists/category-games-!cn.txt) | 877 | 3 | 0 |
+| [category-games](lists/category-games.txt) | 1164 | 4 | 0 |
+| [category-games-!cn](lists/category-games-!cn.txt) | 882 | 3 | 0 |
 | [category-games-cn](lists/category-games-cn.txt) | 282 | 1 | 0 |
 | [category-gov-ir](lists/category-gov-ir.txt) | 29 | 0 | 0 |
 | [category-gov-ru](lists/category-gov-ru.txt) | 145 | 0 | 0 |
@@ -603,7 +603,7 @@ Published lists: **1548** of **1554**.
 | [geetest](lists/geetest.txt) | 2 | 0 | 0 |
 | [gemfury](lists/gemfury.txt) | 6 | 0 | 0 |
 | [genotek-ru](lists/genotek-ru.txt) | 9 | 0 | 0 |
-| [geolocation-!cn](lists/geolocation-!cn.txt) | 25846 | 158 | 0 |
+| [geolocation-!cn](lists/geolocation-!cn.txt) | 25851 | 158 | 0 |
 | [geolocation-cn](lists/geolocation-cn.txt) | 8362 | 3 | 0 |
 | [gettyimages](lists/gettyimages.txt) | 25 | 0 | 0 |
 | [getui](lists/getui.txt) | 7 | 0 | 0 |
@@ -1108,6 +1108,7 @@ Published lists: **1548** of **1554**.
 | [primevideo](lists/primevideo.txt) | 24 | 0 | 0 |
 | [private](lists/private.txt) | 124 | 1 | 0 |
 | [progress](lists/progress.txt) | 6 | 0 | 0 |
+| [projectmoon](lists/projectmoon.txt) | 4 | 0 | 0 |
 | [projectpoi](lists/projectpoi.txt) | 4 | 0 | 0 |
 | [projectsekai](lists/projectsekai.txt) | 2 | 0 | 0 |
 | [proquest](lists/proquest.txt) | 2 | 0 | 0 |
