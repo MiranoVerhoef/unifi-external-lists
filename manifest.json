@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "476b009f4d0176426958b3fdadf87f2a2688baa5",
+  "upstream_revision": "dd0d168c3b0dde4c92320f7857f5b2970f616361",
   "total_lists": 1554,
   "published_lists": 1548,
   "omitted_lists": 6,
