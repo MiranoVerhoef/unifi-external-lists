@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "3895d9a3a76de2c1598a10c5fefc38e3481117fa",
+  "upstream_revision": "de2d7d9f283911f2e24668893ae3d87e1008aecc",
   "total_lists": 1555,
   "published_lists": 1549,
   "omitted_lists": 6,
@@ -2653,7 +2653,7 @@
     },
     "cn": {
       "status": "published",
-      "domain_count": 8362,
+      "domain_count": 8363,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 49
@@ -4186,7 +4186,7 @@
     },
     "geolocation-cn": {
       "status": "published",
-      "domain_count": 8362,
+      "domain_count": 8363,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 18
@@ -7266,7 +7266,7 @@
     },
     "oppo": {
       "status": "published",
-      "domain_count": 45,
+      "domain_count": 46,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
