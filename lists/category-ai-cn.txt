@@ -1,3 +1,4 @@
+ai-indeed.com
 ai.zhaomi.cn
 aispeech.com
 antafu.com
@@ -92,6 +93,12 @@ qwenlm.ai
 rwkv.cn
 rwkv.com
 safeskill.cn
+senseaudio.cn
+senseavatar.com
+sensecore.cn
+sensefoundry.cn
+sensenova.cn
+sensetime.com
 shunjing.xin
 skillhub.cn
 sleeplesshorizon.cn
@@ -105,6 +112,7 @@ trae.com.cn
 trae.guru
 workbuddy.cn
 xiaoaiassist.com
+xiaohuanxiong.com
 xiaomimimo.com
 xiezuocat.com
 xinghuo.xfyun.cn

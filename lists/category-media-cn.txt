@@ -42,6 +42,7 @@ bianews.com
 bjd.com.cn
 bjnews.com.cn
 bkeconomy.com
+bowangcaijing.cn
 btime.com
 caijing.com.cn
 cailianpress.com
@@ -51,6 +52,7 @@ cbinews.com
 ccidcom.com
 ccn.com.cn
 ccreports.com.cn
+cctime.com
 cctv.cn
 cctv.com
 cctv4g.com
@@ -95,9 +97,11 @@ cls.cn
 cneo.com.cn
 cnfol.com
 cnfolimg.com
+cnfood.cn
 cnhubei.com
 cnmo.com
 cnms.net.cn
+cnpharm.com
 cnr.cn
 cns.com.cn
 cnsimg.net
@@ -133,6 +137,7 @@ dahebao.cn
 danjuanfunds.com
 datasheet5.com
 dayoo.com
+dbw.cn
 dgtle.com
 dianzhenkeji.com
 dili360.com
@@ -163,6 +168,7 @@ freebuf.com
 fromgeek.com
 geekbang.org
 geekpark.net
+gelonghui.com
 gfan.com
 gjgbdszt.cn
 gjgbdszt.com.cn
@@ -181,6 +187,8 @@ gxxmt.com
 gxxw.com
 gztv.com
 haowenti.net
+hebnews.cn
+hebrb.cn
 heimadata.com
 hexin.cn
 hexin.com.cn
@@ -198,6 +206,7 @@ hunantoday.cn
 huxiu.com
 huxiucdn.com
 hxnews.com
+iceo.com.cn
 icntvcdn.com
 icpcw.com
 icswb.com
@@ -229,6 +238,7 @@ istv.cn
 it168.com
 itc.cn
 ithome.com
+jcrb.com
 jfdaily.com
 jfdaily.com.cn
 jianyuweb.com
@@ -272,6 +282,7 @@ lifeweek.com.cn
 livechina.cn
 livechina.com
 m.aty.sohu.com
+mcndata.cn
 miercn.com
 minapp.com
 mnw.cn
@@ -283,6 +294,7 @@ nanyuenews.com
 nbd.com.cn
 neweekly.com.cn
 news.cn
+newscdn.cn
 newsimg.cn
 newssc.org
 nfpeople.com
@@ -307,6 +319,7 @@ peopleapp.com
 phoenixcenter.cn
 pingwest.com
 playcool.com
+przwt.com
 pv.hd.sohu.com
 pv.sohu.com
 qbitai.com
@@ -329,6 +342,7 @@ scdaily.cn
 scgchc.com
 sciencenet.cn
 scol.com.cn
+scpublic.cn
 scsjb.cn
 sctv-tf.com
 sctv.com
@@ -339,6 +353,7 @@ shangyexinzhi.com
 shedunews.net
 shobserver.cn
 shobserver.com
+shuwen.com
 snowballsecurities.com
 snxw.com
 sohu.com
@@ -368,6 +383,7 @@ ths123.com
 thsi.cn
 tianjimedia.com
 tidenews.com.cn
+tidesight.com
 tigeek.net.cn
 time-weekly.com
 timesmedia.com.cn
@@ -378,8 +394,10 @@ tmtsmartrun.com
 toodaylab.com
 topnews.cn
 track.sohu.com
+traveldaily.cn
 tvcc.cn
 tvcc.com.cn
+upsort.com
 vbdata.cn
 vcbeat.top
 voc.com.cn
@@ -396,6 +414,7 @@ xhby.net
 xilu.com
 xinhuanet.com
 xinhuaxmt.com
+xinhuazhiyun.com
 xinmeng.info
 xinmin.cn
 xinminweekly.com.cn
@@ -429,6 +448,7 @@ zggbdszt.net.cn
 zgjtb.com
 zhichanli.com
 zhiding.cn
+zhiguf.com
 zjol.com.cn
 zjstv.com
 zol-img.com.cn

@@ -44,6 +44,7 @@ dcshfu.com
 dearedu.com
 dgjy.net
 dict.cn
+diyifanwen.com
 duifene.com
 edu.cn
 eduei.com
@@ -58,6 +59,8 @@ fenbike.cn
 fenbike.com
 fenbilantian.cn
 fenbilantian.com
+gaodun.com
+gaodunwangxiao.com
 gaojidata.com
 gaokao.cn
 gaokao.com
@@ -193,6 +196,7 @@ zuowenku.net
 zuowenwang.net
 zuoyebang.cc
 zuoyebang.com
+zww.com.cn
 zxxk.com
 zybang.com
 zysn.net

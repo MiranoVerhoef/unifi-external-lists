@@ -8,6 +8,8 @@ bdfund.cn
 bobbns.com
 boscam.com.cn
 bosera.com
+bse.cn
+bseinfo.net
 ccfund.com.cn
 ccnew.com
 cczq.com
@@ -18,6 +20,7 @@ cfzq.com
 cgws.com
 changanfunds.com
 chinaclear.cn
+chinahtz.com
 chinalions.com
 chinanature.com.cn
 chinastock.com.cn
@@ -28,10 +31,12 @@ cindasc.com
 cjsc.com
 cnhbstock.com
 cnht.com.cn
+cnindex.com.cn
 cninfo.com.cn
 cryuantafund.com
 csco.com.cn
 csfounder.com
+csindex.com.cn
 ctfund.com
 ctsec.com
 daton.com.cn
@@ -128,11 +133,13 @@ shhxzq.com
 shzq.com
 sse.com.cn
 sseinfo.com
+ssetech.com.cn
 stocke.com.cn
 swhysc.com
 swsc.com.cn
 swsmu.com
 szse.cn
+szsi.cn
 taipingfund.com.cn
 tebon.com.cn
 tfzq.com

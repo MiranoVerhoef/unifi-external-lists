@@ -82,11 +82,14 @@ adnet.sohu.com
 adobestats.io
 adping.qq.com
 adpm.app.qq.com
+ads-api-o.api.leiniao.com
+ads-api-t.my7v.com
 ads-api.duolingo.com
 ads-gate.wildberries.ru
 ads-img.mozilla.org
 ads-integration.rustore.ru
 ads-media.wildberries.ru
+ads-o.res.leiniao.com
 ads-pixiv.net
 ads-twitter.com
 ads-union.jd.com
@@ -281,6 +284,7 @@ b2.mail.ru
 badjs.weixinbridge.com
 baichuan-sdk.alicdn.com
 baifen.music.baidu.com
+base.api.my7v.com
 bds.snssdk.com
 bdu.focus.cn
 beacon.cdn.qq.com
@@ -365,6 +369,12 @@ data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
+dc-conf-o.api.leiniao.com
+dc-conf-t.api.leiniao.com
+dc-o.api.leiniao.com
+dc-t.api.leiniao.com
+dc-uo.api.leiniao.com
+dc-ut.api.leiniao.com
 dc.applicationinsights.azure.com
 dc.letv.com
 dc.services.visualstudio.com
@@ -501,6 +511,7 @@ ipinyou.com
 ipinyou.com.cn
 ironbeast.io
 isdspeed.qq.com
+isms-o.api.my7v.com
 iwanad.baidu.com
 ja.gamersky.com
 ja1.gamersky.com
@@ -669,6 +680,8 @@ push.qq.com
 pv.hd.sohu.com
 pv.sohu.com
 qhupdate.com
+qms-report-o.api.leiniao.com
+qms-report-t.api.leiniao.com
 qpb.sohu.com
 qpb1.sohu.com
 qqdata.ab.qq.com
