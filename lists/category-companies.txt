@@ -6496,6 +6496,7 @@ prod.databe.floonet.goog
 prod.service.minerva.devices.a2z.com
 prodforza.blob.core.windows.net
 product.gmo
+production-copilot-host-westus.webpubsub.azure.com
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
 productionresultssa10.blob.core.windows.net

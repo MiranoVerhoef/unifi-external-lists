@@ -4,3 +4,4 @@ copilot-telemetry.githubusercontent.com
 copilot-workspace.githubnext.com
 copilotprodattachments.blob.core.windows.net
 githubcopilot.com
+production-copilot-host-westus.webpubsub.azure.com

@@ -112,6 +112,7 @@ grazie.ai
 grazie.aws.intellij.net
 grok.com
 grok.x.com
+grokbot.com
 grokipedia.com
 groq.com
 h2o.ai
@@ -190,6 +191,7 @@ ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
 pplx.ai
 proactivebackend-pa.googleapis.com
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 qoder.com
 robinfrontend-pa.googleapis.com

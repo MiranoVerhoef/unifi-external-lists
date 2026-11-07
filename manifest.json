@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "6d14992a24e63dc9494334cc6711de363b0705c3",
+  "upstream_revision": "1d1049b54971c86c9a3a5467d238a6a2ad7baf46",
   "total_lists": 1555,
   "published_lists": 1549,
   "omitted_lists": 6,
@@ -1498,14 +1498,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 215,
+      "domain_count": 217,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 215,
+      "domain_count": 217,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8685,
+      "domain_count": 8686,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 690,
+      "domain_count": 691,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25854,
+      "domain_count": 25856,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -4263,14 +4263,14 @@
     },
     "github": {
       "status": "published",
-      "domain_count": 65,
+      "domain_count": 66,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "github-copilot": {
       "status": "published",
-      "domain_count": 6,
+      "domain_count": 7,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -6377,7 +6377,7 @@
     },
     "microsoft": {
       "status": "published",
-      "domain_count": 752,
+      "domain_count": 753,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 8
@@ -10395,7 +10395,7 @@
     },
     "x": {
       "status": "published",
-      "domain_count": 28,
+      "domain_count": 29,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10409,7 +10409,7 @@
     },
     "xai": {
       "status": "published",
-      "domain_count": 4,
+      "domain_count": 5,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

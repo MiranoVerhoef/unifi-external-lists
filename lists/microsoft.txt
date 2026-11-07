@@ -581,6 +581,7 @@ powerbi.cn
 powerbi.com
 powershellgallery.com
 prodforza.blob.core.windows.net
+production-copilot-host-westus.webpubsub.azure.com
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
 productionresultssa10.blob.core.windows.net

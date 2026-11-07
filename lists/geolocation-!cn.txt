@@ -10491,6 +10491,7 @@ greginhollywood.com
 gridaware.app
 grok.com
 grok.x.com
+grokbot.com
 grokipedia.com
 grooby.com
 groq.com
@@ -18596,6 +18597,7 @@ prodforza.blob.core.windows.net
 prodrive-japan.com
 product.co.jp
 product.gmo
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
