@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "16fd8005d390470e8523745c9fa631c9e767cc61",
+  "upstream_revision": "6766d09f4a951f4f11d822891a9736606cd910ac",
   "total_lists": 1555,
   "published_lists": 1549,
   "omitted_lists": 6,
@@ -546,7 +546,7 @@
     },
     "anthropic": {
       "status": "published",
-      "domain_count": 19,
+      "domain_count": 21,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1498,14 +1498,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 213,
+      "domain_count": 215,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 213,
+      "domain_count": 215,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25852,
+      "domain_count": 25854,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71

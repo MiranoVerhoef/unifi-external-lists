@@ -11511,6 +11511,7 @@ htanime.epizy.com
 htlvbooks.com
 html5rocks.com
 htnewbooks.com
+http-intake.logs.us5.datadoghq.com
 httpfacebook.com
 httpsfacebook.com
 httpwwwfacebook.com
@@ -16873,6 +16874,7 @@ nytstyle.com
 o-courier.ru
 o-uchi.ru
 o.pki.goog
+o1158394.ingest.us.sentry.io
 o2action.co.kr
 o3.ru
 o33249.ingest.sentry.io

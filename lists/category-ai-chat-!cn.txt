@@ -118,6 +118,7 @@ h2o.ai
 hf.co
 hf.space
 host.livekit.cloud
+http-intake.logs.us5.datadoghq.com
 huggingface.co
 jasper.ai
 jetbrains.ai
@@ -156,6 +157,7 @@ notebooklm.googleapis.com
 notegpt.io
 nousresearch.com
 novelai.net
+o1158394.ingest.us.sentry.io
 o33249.ingest.sentry.io
 o33249.ingest.us.sentry.io
 oaistatic.com
