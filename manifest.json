@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "6766d09f4a951f4f11d822891a9736606cd910ac",
+  "upstream_revision": "6d14992a24e63dc9494334cc6711de363b0705c3",
   "total_lists": 1555,
   "published_lists": 1549,
   "omitted_lists": 6,
@@ -10017,7 +10017,7 @@
     },
     "vokino": {
       "status": "published",
-      "domain_count": 24,
+      "domain_count": 25,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
