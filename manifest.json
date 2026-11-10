@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "e8d7a10a15bf662c927a40a3aa680bae86379608",
-  "total_lists": 1555,
-  "published_lists": 1549,
+  "upstream_revision": "2b7ae3222f79e58e323a6b1c30c6618821068963",
+  "total_lists": 1556,
+  "published_lists": 1550,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -1512,7 +1512,7 @@
     },
     "category-ai-cn": {
       "status": "published",
-      "domain_count": 128,
+      "domain_count": 129,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 691,
+      "domain_count": 693,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1820,7 +1820,7 @@
     },
     "category-forums": {
       "status": "published",
-      "domain_count": 111,
+      "domain_count": 114,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2144,
+      "domain_count": 2145,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -2212,7 +2212,7 @@
     },
     "category-speedtest": {
       "status": "published",
-      "domain_count": 327,
+      "domain_count": 328,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2653,7 +2653,7 @@
     },
     "cn": {
       "status": "published",
-      "domain_count": 8469,
+      "domain_count": 8470,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 49
@@ -4179,14 +4179,14 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25856,
+      "domain_count": 25861,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
     },
     "geolocation-cn": {
       "status": "published",
-      "domain_count": 8469,
+      "domain_count": 8470,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 18
@@ -4437,6 +4437,13 @@
       "skipped_invalid_or_single_label": 0
     },
     "gracg": {
+      "status": "published",
+      "domain_count": 2,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
+    "grafanalabs": {
       "status": "published",
       "domain_count": 2,
       "skipped_regex": 0,

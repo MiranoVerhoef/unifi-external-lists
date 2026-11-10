@@ -275,6 +275,8 @@ godoc.org
 golang.com
 golang.net
 golang.org
+grafana.com
+grafana.net
 graphengine.io
 grazie.ai
 grazie.aws.intellij.net

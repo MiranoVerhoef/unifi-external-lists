@@ -3,7 +3,7 @@
 Generated from [V2Fly domain-list-community](https://github.com/v2fly/domain-list-community).
 Unsupported regexes and keywords are omitted.
 
-Published lists: **1549** of **1555**.
+Published lists: **1550** of **1556**.
 
 | List | Domains | Skipped regex | Skipped keyword |
 | --- | ---: | ---: | ---: |
@@ -222,7 +222,7 @@ Published lists: **1549** of **1555**.
 | [category-ads-ir](lists/category-ads-ir.txt) | 7 | 0 | 0 |
 | [category-ai-!cn](lists/category-ai-!cn.txt) | 217 | 1 | 0 |
 | [category-ai-chat-!cn](lists/category-ai-chat-!cn.txt) | 217 | 1 | 0 |
-| [category-ai-cn](lists/category-ai-cn.txt) | 128 | 0 | 0 |
+| [category-ai-cn](lists/category-ai-cn.txt) | 129 | 0 | 0 |
 | [category-ai-ru](lists/category-ai-ru.txt) | 12 | 0 | 0 |
 | [category-android-app-download](lists/category-android-app-download.txt) | 11 | 0 | 0 |
 | [category-anticensorship](lists/category-anticensorship.txt) | 126 | 0 | 0 |
@@ -247,7 +247,7 @@ Published lists: **1549** of **1555**.
 | [category-container](lists/category-container.txt) | 9 | 1 | 0 |
 | [category-cryptocurrency](lists/category-cryptocurrency.txt) | 240 | 0 | 0 |
 | [category-ddns](lists/category-ddns.txt) | 111 | 0 | 0 |
-| [category-dev](lists/category-dev.txt) | 691 | 1 | 0 |
+| [category-dev](lists/category-dev.txt) | 693 | 1 | 0 |
 | [category-dev-cn](lists/category-dev-cn.txt) | 147 | 0 | 0 |
 | [category-documents-cn](lists/category-documents-cn.txt) | 23 | 0 | 0 |
 | [category-doh](lists/category-doh.txt) | 127 | 0 | 0 |
@@ -266,7 +266,7 @@ Published lists: **1549** of **1555**.
 | [category-finance](lists/category-finance.txt) | 660 | 0 | 0 |
 | [category-flight-simulator](lists/category-flight-simulator.txt) | 79 | 0 | 0 |
 | [category-food-cn](lists/category-food-cn.txt) | 66 | 0 | 0 |
-| [category-forums](lists/category-forums.txt) | 111 | 0 | 0 |
+| [category-forums](lists/category-forums.txt) | 114 | 0 | 0 |
 | [category-forums-ir](lists/category-forums-ir.txt) | 2 | 0 | 0 |
 | [category-forums-ru](lists/category-forums-ru.txt) | 11 | 0 | 0 |
 | [category-game-accelerator-cn](lists/category-game-accelerator-cn.txt) | 45 | 0 | 0 |
@@ -311,7 +311,7 @@ Published lists: **1549** of **1555**.
 | [category-public-tracker](lists/category-public-tracker.txt) | 433 | 0 | 0 |
 | [category-remote-control](lists/category-remote-control.txt) | 8 | 0 | 0 |
 | [category-retail-ru](lists/category-retail-ru.txt) | 82 | 0 | 0 |
-| [category-ru](lists/category-ru.txt) | 2144 | 0 | 0 |
+| [category-ru](lists/category-ru.txt) | 2145 | 0 | 0 |
 | [category-scholar-!cn](lists/category-scholar-!cn.txt) | 484 | 0 | 0 |
 | [category-scholar-cn](lists/category-scholar-cn.txt) | 96 | 0 | 0 |
 | [category-scholar-hk](lists/category-scholar-hk.txt) | 33 | 0 | 0 |
@@ -322,7 +322,7 @@ Published lists: **1549** of **1555**.
 | [category-social-media-!cn](lists/category-social-media-!cn.txt) | 627 | 0 | 0 |
 | [category-social-media-cn](lists/category-social-media-cn.txt) | 111 | 0 | 0 |
 | [category-social-media-ir](lists/category-social-media-ir.txt) | 11 | 0 | 0 |
-| [category-speedtest](lists/category-speedtest.txt) | 327 | 1 | 0 |
+| [category-speedtest](lists/category-speedtest.txt) | 328 | 1 | 0 |
 | [category-stun](lists/category-stun.txt) | 359 | 0 | 0 |
 | [category-tech-ir](lists/category-tech-ir.txt) | 45 | 0 | 0 |
 | [category-tech-media](lists/category-tech-media.txt) | 26 | 0 | 0 |
@@ -385,7 +385,7 @@ Published lists: **1549** of **1555**.
 | [cloudns](lists/cloudns.txt) | 2 | 0 | 0 |
 | [clubhouse](lists/clubhouse.txt) | 3 | 0 | 0 |
 | [cmb](lists/cmb.txt) | 22 | 0 | 0 |
-| [cn](lists/cn.txt) | 8469 | 3 | 0 |
+| [cn](lists/cn.txt) | 8470 | 3 | 0 |
 | [cnb](lists/cnb.txt) | 2 | 0 | 0 |
 | [cnbc](lists/cnbc.txt) | 4 | 0 | 0 |
 | [cnbeta](lists/cnbeta.txt) | 3 | 0 | 0 |
@@ -603,8 +603,8 @@ Published lists: **1549** of **1555**.
 | [geetest](lists/geetest.txt) | 2 | 0 | 0 |
 | [gemfury](lists/gemfury.txt) | 6 | 0 | 0 |
 | [genotek-ru](lists/genotek-ru.txt) | 9 | 0 | 0 |
-| [geolocation-!cn](lists/geolocation-!cn.txt) | 25856 | 158 | 0 |
-| [geolocation-cn](lists/geolocation-cn.txt) | 8469 | 3 | 0 |
+| [geolocation-!cn](lists/geolocation-!cn.txt) | 25861 | 158 | 0 |
+| [geolocation-cn](lists/geolocation-cn.txt) | 8470 | 3 | 0 |
 | [gettyimages](lists/gettyimages.txt) | 25 | 0 | 0 |
 | [getui](lists/getui.txt) | 7 | 0 | 0 |
 | [gfycat](lists/gfycat.txt) | 1 | 0 | 0 |
@@ -640,6 +640,7 @@ Published lists: **1549** of **1555**.
 | [googlefcm](lists/googlefcm.txt) | 12 | 0 | 0 |
 | [goproxy](lists/goproxy.txt) | 2 | 0 | 0 |
 | [gracg](lists/gracg.txt) | 2 | 0 | 0 |
+| [grafanalabs](lists/grafanalabs.txt) | 2 | 0 | 0 |
 | [grapheneos](lists/grapheneos.txt) | 16 | 0 | 0 |
 | [gravatar](lists/gravatar.txt) | 1 | 0 | 0 |
 | [greatfire](lists/greatfire.txt) | 11 | 0 | 0 |
