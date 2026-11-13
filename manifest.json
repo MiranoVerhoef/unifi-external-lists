@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "2b7ae3222f79e58e323a6b1c30c6618821068963",
+  "upstream_revision": "777d056afe68b2643c1ef15f80e7bde3dfa149b1",
   "total_lists": 1556,
   "published_lists": 1550,
   "omitted_lists": 6,
@@ -1533,7 +1533,7 @@
     },
     "category-anticensorship": {
       "status": "published",
-      "domain_count": 126,
+      "domain_count": 127,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25861,
+      "domain_count": 25862,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -4466,7 +4466,7 @@
     },
     "greatfire": {
       "status": "published",
-      "domain_count": 11,
+      "domain_count": 12,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

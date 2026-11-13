@@ -67,6 +67,7 @@ karing.app
 lantern.io
 log.rw
 lokinet.org
+manyvoices.news
 matsuridayo.github.io
 metacubex.github.io
 metacubex.one
