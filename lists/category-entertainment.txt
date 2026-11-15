@@ -1106,6 +1106,7 @@ mushymush.tv
 music.apple.com
 musical.ly
 musickit.net
+musicstatus.itunes.apple.com
 musicstatus.music.apple.com
 muvluv-girls-garden.com
 mvod.itunes.apple.com
@@ -1118,6 +1119,7 @@ mythicentertainment.com
 mythicentertainment.net
 mythicgames.com
 mytvsuper.com
+mzstorekit.itunes.apple.com
 n0vadesktop.com
 namemc.com
 natgeomaps.com

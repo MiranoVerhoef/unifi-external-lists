@@ -88,6 +88,7 @@ psiphon.ca
 psiphon3.com
 pwnedpasswords.com
 rabbit-hole-1.gitbook.io
+remna.dev
 remna.st
 sagernet.org
 shadowlaunch.com

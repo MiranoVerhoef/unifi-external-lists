@@ -6,12 +6,14 @@ az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
 blazor.net
 botframework.com
+builds.dotnet.microsoft.com
 codethemicrobit.com
 dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 devopsassessment.net
 dot.net
+dotnetcli.trafficmanager.net
 download.visualstudio.microsoft.com
 dtlgalleryint.cloudapp.net
 gamesstack.com
@@ -51,6 +53,7 @@ rink.hockeyapp.net
 rt.services.visualstudio.com
 sankie.net
 sqlserveronlinux.com
+sundry-star-net-geo.trafficmanager.net
 timelinestoryteller.com
 uwpcommunitytoolkit.com
 vfsforgit.com
@@ -69,6 +72,7 @@ vscode-unpkg.net
 vscode-webview.net
 vscode.blob.core.windows.net
 vscode.dev
+vscode.download.prss.microsoft.com
 vscode.search.windows.net
 vscodeedu.app
 vscodeedu.com

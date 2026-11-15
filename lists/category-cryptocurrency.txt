@@ -104,6 +104,7 @@ curve.fi
 cyberx.com
 d3r7nsslvs6aaf.cloudfront.net
 debank.com
+debot.ai
 delets.cash
 delets.online
 deribit.cdn.prismic.io

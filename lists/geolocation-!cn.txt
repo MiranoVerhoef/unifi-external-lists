@@ -4703,6 +4703,7 @@ bugzilla.org
 buhidoh.net
 buicha.social
 building3dcontent.com
+builds.dotnet.microsoft.com
 builtfromebay.com
 builtwithnix.org
 bukkake-jav.com
@@ -5028,6 +5029,7 @@ capitalg.com
 capitalgames.com
 capitaliq.com
 capitalt.ru
+captive.apple.com
 capturingreality.com
 carbon.com
 carcare-and-tireshop.jp
@@ -5865,6 +5867,7 @@ config.uca.cloud.unity3d.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.apple.com
 configuration.apple.com.akadns.net
+configuration.ls.apple.com
 connaissancesfinancierespratiques.ca
 connect-in-canada.com
 connectcommerce.cn
@@ -6394,6 +6397,7 @@ dealtree.org
 deasians.com
 debank.com
 debian.org
+debot.ai
 debug.com
 debugproject.com
 decentr.net
@@ -7154,6 +7158,7 @@ dotfreesex.com
 dotherex.com
 dothq.org
 dotmac.de
+dotnetcli.trafficmanager.net
 doubleclick-cn.net
 doubleclick.cn
 doubleclick.com
@@ -15685,6 +15690,7 @@ musical.ly
 musicbay.net
 musicbrainz.org
 musickit.net
+musicstatus.itunes.apple.com
 musicstatus.music.apple.com
 musixmatch.com
 mut.ch
@@ -15900,6 +15906,7 @@ myyoungwifeisnude.com
 mzed.com
 mzl.la
 mzstatic.com
+mzstorekit.itunes.apple.com
 n0vadesktop.com
 n26.com
 n3ro.lol
@@ -19194,6 +19201,7 @@ reklama.mail.ru
 relap.mail.ru
 relateiq.com
 remirepo.net
+remna.dev
 remna.st
 rencapbank.ru
 renchead.com
@@ -21341,6 +21349,7 @@ sun.com
 sunbingo.co.uk
 sundanceignite2016.com
 sundayready.com
+sundry-star-net-geo.trafficmanager.net
 sunglassessale2014.com
 sunporno.com
 supadou.blogism.jp

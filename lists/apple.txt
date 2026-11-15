@@ -761,6 +761,7 @@ calendarserver.org
 camelphat.com
 camelspaceeffect.com
 canada-beatsbydre.com
+captive.apple.com
 carbon.com
 carekit.org
 casque-fr.com
@@ -876,6 +877,7 @@ communities.apple.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.apple.com
 configuration.apple.com.akadns.net
+configuration.ls.apple.com
 cooliphonecasesstore.com
 coolmonster.net
 coreml.net
@@ -1526,6 +1528,7 @@ mr-apple.com.tw
 ms4dre.com
 music.apple.com
 musickit.net
+musicstatus.itunes.apple.com
 musicstatus.music.apple.com
 mvod.itunes.apple.com
 myapp.itunes.apple.com
@@ -1538,6 +1541,7 @@ myicloud.net
 myipod.net
 mylcloud.net
 mzstatic.com
+mzstorekit.itunes.apple.com
 namemybeats.com
 neborder.com
 negozimonsterbeats.com

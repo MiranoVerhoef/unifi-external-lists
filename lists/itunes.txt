@@ -72,8 +72,10 @@ itunesu.com
 itunesu.net
 iutunes.com
 misc-assets.itunes.apple.com
+musicstatus.itunes.apple.com
 mvod.itunes.apple.com
 myapp.itunes.apple.com
+mzstorekit.itunes.apple.com
 np-edge.itunes.apple.com
 osxapps.itunes.apple.com
 osxapps.itunes.g.aaplimg.com

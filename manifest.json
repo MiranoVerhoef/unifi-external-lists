@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "3e5a6807b0f31268e96b321440564fc809996b22",
+  "upstream_revision": "cc8b8a5ec9cd60abeefa1da403335db176458c99",
   "total_lists": 1556,
   "published_lists": 1550,
   "omitted_lists": 6,
@@ -609,7 +609,7 @@
     },
     "apple": {
       "status": "published",
-      "domain_count": 1810,
+      "domain_count": 1814,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -1533,7 +1533,7 @@
     },
     "category-anticensorship": {
       "status": "published",
-      "domain_count": 127,
+      "domain_count": 128,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8686,
+      "domain_count": 8693,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -1673,7 +1673,7 @@
     },
     "category-cryptocurrency": {
       "status": "published",
-      "domain_count": 240,
+      "domain_count": 241,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 693,
+      "domain_count": 697,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1778,7 +1778,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2158,
+      "domain_count": 2160,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25862,
+      "domain_count": 25871,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 71
@@ -5278,7 +5278,7 @@
     },
     "itunes": {
       "status": "published",
-      "domain_count": 97,
+      "domain_count": 99,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -6384,14 +6384,14 @@
     },
     "microsoft": {
       "status": "published",
-      "domain_count": 753,
+      "domain_count": 756,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 8
     },
     "microsoft-dev": {
       "status": "published",
-      "domain_count": 76,
+      "domain_count": 80,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -8064,7 +8064,7 @@
     },
     "remnawave": {
       "status": "published",
-      "domain_count": 4,
+      "domain_count": 5,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
