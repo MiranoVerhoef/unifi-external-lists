@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "777d056afe68b2643c1ef15f80e7bde3dfa149b1",
+  "upstream_revision": "3e5a6807b0f31268e96b321440564fc809996b22",
   "total_lists": 1556,
   "published_lists": 1550,
   "omitted_lists": 6,
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2145,
+      "domain_count": 2146,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
