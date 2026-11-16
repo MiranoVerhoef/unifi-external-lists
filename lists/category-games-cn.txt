@@ -52,6 +52,8 @@ aligames.com
 anticheatexpert.com
 appeeres.com
 arcaea.cn
+arknights.com
+arknights.com.cn
 astral-vector.com
 battlecare.net
 bcfmglobal.com
@@ -114,7 +116,14 @@ heavenlywind.cc
 hero.com
 heroesports.com
 herogame.com
+hgto.cc
 hkgcloudcs.com
+hycdn.cn
+hycdn.com
+hypergryph.cn
+hypergryph.com
+hypergryph.com.cn
+hypergryph.net
 i3839.com
 ihappystudio.cn
 ihappystudio.com
@@ -169,6 +178,7 @@ nextworkshop.net
 nikkigames.cn
 nikkigames.com.cn
 nzsiteres.com
+octavedge.com
 papegames.cn
 papegames.com
 phira.cn
@@ -199,6 +209,8 @@ seasungames.com
 seasunwbl.com
 shengqugames.com
 shyxhy.com
+skland.com
+skland.net
 skydweller.cn
 sl916.com
 supercellcommunity.cn

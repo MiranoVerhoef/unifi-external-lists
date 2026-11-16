@@ -120,6 +120,7 @@ cubicodyssey.game
 curseforge.com
 cyberpunk.net
 cygames.co.jp
+cygames.com
 cygames.jp
 d1unuk07s6td74.cloudfront.net
 d348twzf7a8p5.cloudfront.net

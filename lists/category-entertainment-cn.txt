@@ -126,6 +126,8 @@ appeeres.com
 apple.www.letv.com
 arcaea.cn
 ark.letv.com
+arknights.com
+arknights.com.cn
 astral-vector.com
 atianqi.com
 atm.youku.com
@@ -413,6 +415,7 @@ heiyanimg.com
 hero.com
 heroesports.com
 herogame.com
+hgto.cc
 hifuntv.com
 hitv.com
 hkgcloudcs.com
@@ -442,7 +445,13 @@ huoshanzhibo.cn
 huoshanzhibo.com
 huoshanzhibo.net
 huya.com
+hycdn.cn
+hycdn.com
 hypercachenode.com
+hypergryph.cn
+hypergryph.com
+hypergryph.com.cn
+hypergryph.net
 hzdtv.tv
 hzman.net
 i3839.com
@@ -655,6 +664,7 @@ novelfmpic.com
 novelfmstatic.com
 novelfmvod.com
 nzsiteres.com
+octavedge.com
 open-douyin.com
 p-log.ykimg.com
 p3-ad-sign.byteimg.com
@@ -754,6 +764,8 @@ shuqireader.com
 shuqistat.com
 shyxhy.com
 singworld.net
+skland.com
+skland.net
 skydweller.cn
 sl916.com
 smgbb.cn
