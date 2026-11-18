@@ -92,6 +92,7 @@
 16rd.com
 17173.com
 17173cdn.com
+172.com
 172mix.com
 178.com
 178linux.com
@@ -123,9 +124,12 @@
 1kkk.com
 1nongjing.com
 1ppt.com
+1qianbao.com
 1ting.com
 1tyy.cn
 1xhh.cn
+1y.com
+1ycdn.com
 1zhe.com
 20130123.com
 21cn.com
@@ -247,6 +251,7 @@
 3yx.com
 40017.cn
 4008-517-517.cn
+4008000000.com
 4008117117.com
 40407.com
 423down.com
@@ -352,6 +357,7 @@
 58pic.com
 58uxd.com
 58v5.cn
+58wos.com.cn
 58xinghuo.cn
 58xinghuo.com
 58xueche.com
@@ -687,6 +693,7 @@ aixifan.com
 aiyunxiao.com
 aizgtc.com
 aizhan.com
+ajkimg.com
 ajzq.com
 aka815.net
 aki-game.com
@@ -1005,6 +1012,9 @@ baikemy.com
 baikevod.com
 baimiao.tech
 baimiaoapp.com
+baishan.com
+baishancdnx.cn
+baishancloud.com
 baishinetwork.com
 baitiao.com
 baixing.com
@@ -4752,6 +4762,7 @@ ledu.com
 leelen.com
 leetcode-cn.com
 leetcode.cn
+lefile.cn
 lehuipay.com
 leigod.cn
 leigod.com
@@ -4773,6 +4784,8 @@ lenovocloudos.com
 lenovocust.cn
 lenovoeservice.com
 lenovofile.com
+lenovofoundation.cn
+lenovofuturecenter.com
 lenovogame.com
 lenovoimage.cn
 lenovoimage.com
@@ -4927,6 +4940,7 @@ lufax.com
 lufaxcdn.com
 lufunds.com
 luhua.cn
+lujincaifu.com
 lulian.cn
 lumiai.com
 lunwengo.net
@@ -5159,6 +5173,7 @@ minapp.com
 mincdn.com
 mindspore.cn
 mingxuan.store
+mingyuanfund.com
 mingyuanyun.com
 minhangshi.com
 minimaxi.com
@@ -5610,6 +5625,7 @@ oss-cn-shanghai.aliyuncs.com
 oss-cn-shenzhen.aliyuncs.com
 oss-cn-wulanchabu.aliyuncs.com
 oss-cn-zhangjiakou.aliyuncs.com
+oss-enet.aliyuncs.com
 ottcn.com
 oupeng.com
 ourdvsss.com
@@ -5641,7 +5657,9 @@ p7-juejin.byteimg.com
 p8-juejin.byteimg.com
 p9-ad-sign.byteimg.com
 p9-juejin.byteimg.com
+pacfc.com
 pacmantwo.com
+pafoundation.org.cn
 pagescube.cn
 pagescube.com
 paidaojia.cn
@@ -5711,6 +5729,7 @@ pglstatp-toutiao-b.com
 pglstatp-toutiao.com
 pgyer.com
 pgzs.com
+ph.com.cn
 pharmacodia.com
 phfund.com.cn
 philanthropy.xin
@@ -5733,6 +5752,7 @@ pigai.org
 pimlog.baidu.com
 pinduoduo.com
 pinduoduo.net
+pingan.cn
 pingan.com
 pingan.com.cn
 pingcap.cn
@@ -5975,6 +5995,7 @@ qnssl.com
 qpb.sohu.com
 qpb1.sohu.com
 qpic.cn
+qpmcn.com
 qq.cn.com
 qq.com
 qq.com.cn
@@ -6752,6 +6773,7 @@ tencent.com.cn
 tencent.design
 tencent.net
 tencent.net.cn
+tencentads.com
 tencentapps.com
 tencentbyod.com
 tencentcdb.cn
@@ -7023,6 +7045,7 @@ tripcdn.cn
 tripcdn.com
 tritoninfo.net
 trjcn.com
+trpcdn.com
 trpcdn.net
 trunktech.com
 trustasia.cn
@@ -8027,6 +8050,7 @@ yinhang123.net
 yinxiang.com
 yinyuetai.com
 yinzhaowang.com
+yiqianbao.com
 yiqifa.com
 yiqifa.org
 yisou.com
@@ -8108,6 +8132,8 @@ yoyojie.com
 yoyou.com
 ypppt.com
 yqb.com
+yqbimg.net
+yqbmall.com
 yrz.name
 ys7.com
 ysepay.com
@@ -8298,6 +8324,8 @@ zhanqi.tv
 zhanzhang.net
 zhaodanji.com
 zhaokao.net
+zhaoliangji.com
+zhaoliangjipc.com
 zhaomi.cn
 zhaomishijie.com
 zhaopin.cn

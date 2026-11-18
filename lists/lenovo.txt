@@ -16,6 +16,7 @@ juhuiwan.com
 juhuiwan.com.cn
 juhuiwan.net
 lecoo.com
+lefile.cn
 lenauth.com
 lenovo.cn
 lenovo.com
@@ -27,6 +28,8 @@ lenovocloudos.com
 lenovocust.cn
 lenovoeservice.com
 lenovofile.com
+lenovofoundation.cn
+lenovofuturecenter.com
 lenovogame.com
 lenovoimage.cn
 lenovoimage.com

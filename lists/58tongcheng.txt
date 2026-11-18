@@ -13,9 +13,11 @@
 58lovepet.com
 58uxd.com
 58v5.cn
+58wos.com.cn
 58xinghuo.cn
 58xinghuo.com
 58xueche.com
+ajkimg.com
 anjuke.com
 anjukestatic.com
 chinahr.com
@@ -29,11 +31,14 @@ jxksw.net
 kaoshibao.com
 kgdc.cn
 kgtest.cn
+qpmcn.com
 roomeet.cn
 xgo-img.com.cn
 xinchong.com
 xueche.com
 zaixiankaoshi.com
+zhaoliangji.com
+zhaoliangjipc.com
 zhuancorp.com
 zhuaninc.com
 zhuanspirit.cn

@@ -37,7 +37,6 @@ misc.in.duokanbox.com
 mitvos.com
 miui.com
 miwifi.com
-saxyit.com
 sentry.d.mi.com
 sentry.d.xiaomi.net
 stats.music.xiaomi.com

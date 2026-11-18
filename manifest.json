@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "178b9452b28a254a97d24e56c84babbe3e3e3dda",
+  "upstream_revision": "bc3a8f5e24792303cf82bfff33b1ff164a0e4b3c",
   "total_lists": 1557,
   "published_lists": 1551,
   "omitted_lists": 6,
@@ -112,7 +112,7 @@
     },
     "58tongcheng": {
       "status": "published",
-      "domain_count": 42,
+      "domain_count": 47,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -392,7 +392,7 @@
     },
     "alibaba": {
       "status": "published",
-      "domain_count": 463,
+      "domain_count": 464,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 4
@@ -413,7 +413,7 @@
     },
     "aliyun": {
       "status": "published",
-      "domain_count": 88,
+      "domain_count": 89,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -882,7 +882,7 @@
     },
     "baishancloud": {
       "status": "published",
-      "domain_count": 3,
+      "domain_count": 9,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1470,21 +1470,21 @@
     },
     "category-ads": {
       "status": "published",
-      "domain_count": 848,
+      "domain_count": 849,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ads-all": {
       "status": "published",
-      "domain_count": 908,
+      "domain_count": 909,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ads-and-telemetry": {
       "status": "published",
-      "domain_count": 889,
+      "domain_count": 890,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1631,7 +1631,7 @@
     },
     "category-cdn-cn": {
       "status": "published",
-      "domain_count": 93,
+      "domain_count": 99,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1785,7 +1785,7 @@
     },
     "category-entertainment-cn": {
       "status": "published",
-      "domain_count": 938,
+      "domain_count": 940,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1855,7 +1855,7 @@
     },
     "category-games": {
       "status": "published",
-      "domain_count": 1176,
+      "domain_count": 1178,
       "skipped_regex": 4,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1869,7 +1869,7 @@
     },
     "category-games-cn": {
       "status": "published",
-      "domain_count": 293,
+      "domain_count": 295,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1946,7 +1946,7 @@
     },
     "category-media-cn": {
       "status": "published",
-      "domain_count": 458,
+      "domain_count": 460,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -2394,7 +2394,7 @@
     },
     "changyou": {
       "status": "published",
-      "domain_count": 7,
+      "domain_count": 9,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2653,7 +2653,7 @@
     },
     "cn": {
       "status": "published",
-      "domain_count": 8482,
+      "domain_count": 8510,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 49
@@ -4186,7 +4186,7 @@
     },
     "geolocation-cn": {
       "status": "published",
-      "domain_count": 8482,
+      "domain_count": 8510,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 18
@@ -5866,7 +5866,7 @@
     },
     "lenovo": {
       "status": "published",
-      "domain_count": 58,
+      "domain_count": 61,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -7525,7 +7525,7 @@
     },
     "pingan": {
       "status": "published",
-      "domain_count": 4,
+      "domain_count": 19,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -8680,7 +8680,7 @@
     },
     "sohu": {
       "status": "published",
-      "domain_count": 31,
+      "domain_count": 33,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
@@ -9254,7 +9254,7 @@
     },
     "tencent": {
       "status": "published",
-      "domain_count": 705,
+      "domain_count": 706,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10031,7 +10031,7 @@
     },
     "vokino": {
       "status": "published",
-      "domain_count": 25,
+      "domain_count": 27,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10486,7 +10486,7 @@
     },
     "xiaomi": {
       "status": "published",
-      "domain_count": 76,
+      "domain_count": 75,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
