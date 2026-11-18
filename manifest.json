@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "41504eae2a11f305fe88cfc605cf6c105a80bf5a",
+  "upstream_revision": "178b9452b28a254a97d24e56c84babbe3e3e3dda",
   "total_lists": 1557,
   "published_lists": 1551,
   "omitted_lists": 6,
@@ -1498,14 +1498,14 @@
     },
     "category-ai-!cn": {
       "status": "published",
-      "domain_count": 217,
+      "domain_count": 218,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "category-ai-chat-!cn": {
       "status": "published",
-      "domain_count": 217,
+      "domain_count": 218,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8694,
+      "domain_count": 8693,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 50
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2147,
+      "domain_count": 2146,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -3535,7 +3535,7 @@
     },
     "elevenlabs": {
       "status": "published",
-      "domain_count": 2,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -10584,7 +10584,7 @@
     },
     "yandex": {
       "status": "published",
-      "domain_count": 157,
+      "domain_count": 156,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 1
