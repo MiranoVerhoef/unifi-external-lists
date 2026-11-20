@@ -99,7 +99,6 @@
 3dstudio.com
 3dtin.com
 3dtin.net
-40shopping.com
 466453.com
 4beatsbydre.com
 5-d.com
@@ -121,7 +120,6 @@ a5.mzstatic.com
 aaagradeheadphones.com
 aadrm.cn
 aadrm.com
-aanaan.com
 aapl.tw
 aaplimg.com
 abc.xyz
@@ -288,7 +286,6 @@ advk.vk.ru
 adwords-community.com
 adwords.com
 adwordsexpress.com
-aeasyshop.com
 aecexcellence.com
 aerospace-cadcam.com
 aerospace-design.com
@@ -307,7 +304,6 @@ aida.googleapis.com
 air-watch.com
 airgonetworks.com
 airgunstudio.com
-airmay.com
 airport.brussels
 airport.com
 airport.eu
@@ -320,7 +316,6 @@ airwatchqa.com
 aisandbox-pa.googleapis.com
 aistudio.google.com
 aiv-cdn.net
-ajtalk.com
 aka.ms
 albeats.com
 alchemysynth.com
@@ -552,7 +547,6 @@ anexia.com
 angulardart.org
 animary.jp
 ankarazirvesi2018.com
-annstores.net
 antenna.co.kr
 antigravity-pa.googleapis.com
 antigravity-unleash.goog
@@ -564,7 +558,6 @@ anydesk.com
 aod-ssl.itunes.apple.com
 aod.itunes.apple.com
 aodahl.com
-aokwholesale.net
 aolcdn.com
 aorus.com
 aoruszone.cn
@@ -1367,11 +1360,9 @@ b3itech.cn
 babes.com
 badaas.com
 bag-cdn.itunes-apple.com.akadns.net
-bag-glasses1.com
 bag.itunes.apple.com
 bananacall.ru
 band.us
-bandgirlz.com
 bandpage.com
 bandwagonhost.com
 banksy.tokyo
@@ -1382,9 +1373,7 @@ barkadahansasmartone.com
 baselinestudy.com
 baselinestudy.org
 baterias-hp.com
-baxsound.com
 bazel.build
-bbestmall.com
 bdn.dev
 beacons.gcp.gvt2.com
 beacons.gvt2.com
@@ -1670,7 +1659,6 @@ beget.pro
 beget.ru
 beget.tech
 begetcdn.cloud
-begin-trade.com
 behance.net
 behindthescreenz.com
 bellsouth.net
@@ -1693,7 +1681,6 @@ betterwithautodesk.com
 beyondcore.com
 bget.ru
 bhent.co.kr
-biitii.com
 bim-360.com
 bim360.com
 bim360.net
@@ -1812,7 +1799,6 @@ blogspot.td
 blogspot.tw
 blogspot.ug
 blogspot.vn
-bloommicroventures.com
 blueaggrestore.com
 bluecloudprod.com
 bluefootcms.com
@@ -1824,22 +1810,16 @@ blurams.app
 blurams.com
 bookkeeper.itunes.apple.com
 bookmate.ru
-bookonsky.net
 bookstagram.com
 boom.ru
 boosty.to
 boringcompany.com
-bossae.com
 boswp.com
 botframework.com
 botmechanic.io
 botorch.org
 boxofficemojo.com
 braeburncapital.com
-brandeasygo.com
-brandelectronic.com
-brandproducts1688.com
-brands098.com
 brandsecurity.gmo
 brantect.com
 brazilpartneruniversity.com
@@ -1875,8 +1855,6 @@ bumptunes.com
 burstly.net
 burstlyrewards.com
 businesscatalyst.com
-businesswebwise.com
-buy-from-shanghai.com
 buyaapl.com
 buyaapl.net
 buyaltera.com
@@ -1892,8 +1870,6 @@ buyingfacebooklikes.com
 buyminibeatbox.com
 buyoculus.com
 buyonlineheadphones.com
-buyshoponly.com
-buzzardflapper.com
 bwh1.net
 bwh8.net
 bwh81.net
@@ -2120,8 +2096,6 @@ cheaperbeatsbydresale.com
 cheapestbeatsdrdre.com
 cheapheadphonesland.com
 cheapheadphonessale.com
-cheapheadsetmall.com
-cheapheadsetshop.com
 cheapmonsterbeatsbydrdre.com
 cheapmonsterbeatsheadsets.com
 cheapmonsterbeatssale.com
@@ -2129,19 +2103,14 @@ cheapmonsterbeatsusa.us
 cheapmonstersbeatsonsale.com
 cheapnewbeatsbydre.com
 cheapsalemonster.com
-cheapshoesvip.com
-cheapwireless04.com
 cheapwirelessbeats.com
 checkin.gstatic.com
-cheerwholesale.us
 chef.io
 chegg.com
 cheggcdn.com
 chickstagram.com
-chihair-straightener.com
 china-autodesk.com
 china-facebook.com
-chinaclothesstore.com
 chinacloud-mobile.cn
 chinacloudapi.cn
 chinacloudapp.cn
@@ -2161,7 +2130,6 @@ chronicle.security
 chroniclesec.com
 cht.com.tw
 chtf.org.tw
-ciattackers.com
 ciciq.net
 cilk.com
 cilk.net
@@ -2275,7 +2243,6 @@ clova.ai
 clstorage.net
 clusterconnection.com
 cma.itunes.apple.com
-cmhalq.com
 cmpaas.com
 cn-smp-paymentservices.apple.com
 cn.alibabacloud.com
@@ -2285,7 +2252,6 @@ cn.download.nvidia.com
 cn.mm.bing.net
 cn.widevine.com
 cn.windowssearch.com
-cnshopin.com
 cobatt.com
 cobrasearch.com
 code-class.ru
@@ -2362,7 +2328,6 @@ covid19-rx.org
 covid19rx.org
 cozydrdrebeats.com
 cpedge.com
-cqcorea.com
 crankplayer.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
@@ -2397,7 +2362,6 @@ csifund.org
 cstat.apple.com
 cstat.cdn-apple.com
 ctldl.windowsupdate.com
-cuffiesaldi.com
 cups.online
 cups.org
 currently.com
@@ -2428,7 +2392,6 @@ dacebook.com
 dahl.su
 dahlmessenger.com
 daily-cloudcode-pa.googleapis.com
-danemarket.com
 danmarkbeatsbydrdre.com
 dart.dev
 dartlang.org
@@ -2678,7 +2641,6 @@ desktopmovie.org
 desktopmovies.net
 desktopmovies.org
 destinationbim.com
-detaliczny.com
 detodosparatodos.org
 dev-my.com
 dev-my.games
@@ -2915,7 +2877,6 @@ dsmynas.com
 dsmynas.net
 dsmynas.org
 dtlgalleryint.cloudapp.net
-dtsell.com
 dtv2009offers.com
 dtvce.com
 duolingo.cn
@@ -2938,13 +2899,11 @@ dzen.ru
 dzeninfra.ru
 e-estate.jp
 e.mindbox.ru
-earphonescheapest.com
 earpod.net
 earthdell.com
 easic.com
 easy-signing.com
 ebookforipad.com
-ebuyheadphones.com
 eca.hinet.net
 ecgapp.com.cn
 ecgapp.net
@@ -3009,7 +2968,6 @@ esforce.com
 esforce.ru
 esmarthealth.com
 esopworld.com
-etheadphones.com
 eueuropeansustainabledesign.net
 eurocodesoftware.com
 euroipad.com
@@ -3295,7 +3253,6 @@ fakeorphoto.com
 familyds.com
 familyds.net
 familyds.org
-famosascalvas.com
 fanspot.jp
 faronics.ca
 faronics.co.uk
@@ -3483,8 +3440,6 @@ fr-beatsbydrestore.com
 fracebook.com
 francecasquebeatssolde.com
 frcasquesbeats.com
-free-aa.com
-free-sns.com
 freeb.com
 freebasics.com
 freebasics.net
@@ -3503,7 +3458,6 @@ friendfeed-api.com
 friendfeed-media.com
 friendfeed.com
 friendfeedmedia.com
-frishoes.com
 frontrow.com
 frontrow.com.cn
 froogle.com
@@ -3682,7 +3636,6 @@ globalsign.net
 globalsign.nl
 globalsigncdn.com
 gmail.com
-gmnetworks.net
 gmo-aozora.com
 gmo-app.jp
 gmo-c.jp
@@ -3736,7 +3689,6 @@ gonglchuangl.net
 gongyichuangyi.net
 goo.gl
 good-apps.jp
-goodsdunk.net
 goodsrv.de
 googel.com
 googil.com
@@ -4110,20 +4062,12 @@ hayya.ae
 hddirectv.com
 hdinsightservices.cn
 hdrplusdata.org
-headphonepubs.com
-headphones-cool.com
 headphones-dre.com
 headphones-outlet-online.com
 headphonesbeatsaudio.com
 headphonesbeatsbydre.com
 headphoneses.com
-headphoneshome.com
-headphoneshotsales.com
-headphonesol.com
 headphonesretailer.com
-headphonessupply.com
-headphonezip.com
-headset987.com
 healthreach.hk
 hebiphone.com
 hellokittybeats.com
@@ -4164,8 +4108,6 @@ highbolt.net
 highdefinitionbeatsbydre.com
 hindiweb.com
 hinet.net
-hipaa6020.com
-hipzoom.net
 hkbn.com.hk
 hkbn.net
 hkbnes.net
@@ -4188,7 +4130,6 @@ homepod.cn
 homestylerapp.com
 homestylernews.com
 hominis.media
-honawalaan.com
 hopstop.tv
 horizontal-llc.com
 horizontal-systems.com
@@ -4203,7 +4144,6 @@ hotmail.net
 hotmail.org
 hotmonsterbeats.com
 hotsrv.de
-hottestheadphonesonline.com
 howtogetmo.co.uk
 howtohackfacebook-account.com
 hp-imagine.com
@@ -4334,7 +4274,6 @@ hpvirtualthin.com
 hpwallart.com
 hpwellnesscentral.com
 hpwsn.com
-hrsaz.com
 hrtek.ru
 hsfacebook.com
 hsm-works.com
@@ -4488,7 +4427,6 @@ ig.apple.com
 ig.me
 igcdn.com
 igoogle.com
-igoshopping.net
 igsonar.com
 igtv.com
 ikids.com
@@ -4496,7 +4434,6 @@ ilecture.co.nz
 ilife.eu
 ilife.gr
 ilife.wang
-illianacomputerrecycling.com
 imac-apple.com
 imac-applecomputer.com
 imac.co
@@ -4544,7 +4481,6 @@ inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
 inbox.ru
-incentivetravelgifts.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 indiaipad.com
@@ -4910,7 +4846,6 @@ iphone5.com
 iphone5casescovers.com
 iphone5s5case.com
 iphoneacessorios.com.br
-iphonecase2013.com
 iphonecase5.com
 iphonecases100.com
 iphonecases5.com
@@ -4985,7 +4920,6 @@ is5-ssl.mzstatic.com
 is5.mzstatic.com
 ischool.com
 iskoot.com
-islamiccenterofnewlondon.com
 isomorphiclabs.com
 istent.co.kr
 istorytell.com
@@ -5140,7 +5074,6 @@ keytransparency.com
 keytransparency.foo
 keytransparency.org
 kgslb.com
-kickshatchannel.com
 kidgrid.tv
 kigyo.gmo
 killercb.ru
@@ -5174,7 +5107,6 @@ knightspeak.com
 knoxemm.com
 kobbeatssbydredk.com
 koddobra.ru
-kopfhorergunstigshop.com
 koukoku.jp
 kp-config-smart-tv.akamaized.net
 kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
@@ -5227,11 +5159,9 @@ launchpad.wang
 le-direct.tv
 learningfreedomandtheweb.org
 leavinghpinc.com
-leecountytimes.com
 lerna.ru
 lex.download.prss.microsoft.com
 lexuat.download.prss.microsoft.com
-lexuemei.com
 lg.com
 lgappstv.com
 lge.co.kr
@@ -5310,12 +5240,10 @@ lovebeatsdr.com
 lovemarca.com
 lovina.app
 lrfdsoftware.com
-luckyissue.com
 luckysrv.de
 lunchwithpype.com
 lvcampaign.com
 lync.cn
-lyzsxx.com
 m.me
 m12.vc
 m2m.com
@@ -5390,7 +5318,6 @@ makeanything.com
 makeappli.jp
 makebettercode.com
 makecode.org
-makeeu.com
 makeitopen.com
 makeitrealcontest.com
 makerepeater.jp
@@ -5399,7 +5326,6 @@ makesenseofdata.com
 makeshop.jp
 makingstartshere.com
 maktoob.com
-mallheadphone.com
 managedmeetingrooms.com
 management-azure-devices-int.net
 management-azure-devices-provisioning.cn
@@ -5450,7 +5376,6 @@ mayauser.com
 mayauser.net
 mayavisualization.com
 mbeats-tech.com
-mbheadphone.com
 mbs.download.prss.microsoft.com
 mc.yandex.com
 mc.yandex.net
@@ -5644,7 +5569,6 @@ microsofttradein.com
 microsofttranslator-int.cn
 microsofttranslator.com
 microsoftuwp.com
-micstl.com
 midentsolutions.com
 mikrotik.com
 mimistudio.com
@@ -5753,14 +5677,12 @@ monsterdrebeats-canada.net
 monsterdrebeats-usa.com
 monsterdrebeats-usa.net
 monsterheadphone.net
-monsterproduct.net
 monstersbeatbydres.com
 monstersdebea.com
 monstershopcheapbeats.net
 moodstocks.com
 moov.hk
 more.tv
-moreheadphones.com
 morewithautodesk.com
 morphcharts.com
 motiongraphicsandmore.com
@@ -5993,7 +5915,6 @@ naydex.net
 nbabot.net
 ncloud.com
 near.by
-neborder.com
 negozimonsterbeats.com
 negoziomonsterbeats.com
 neicad.com
@@ -6028,13 +5949,10 @@ nevex.com
 new.day
 new2fea.com
 newbeatsblackfriday.com
-newbemany.com
 newdrediscount.com
 newestbeatsbydre.com
-newlysprung.net
 newmonst1erbeatsto1re.com
 newmonsterbeatsheadphones.com
-newschristmasshopping.com
 newsfeed.com
 newtofea.com
 newton.com
@@ -6043,13 +5961,11 @@ nextechafrica.net
 nextgenerationcam.com
 nextgenerationcenter.com
 nextstop.com
-nflhotsalejerseys.com
 nginxconfig.io
 nheos.com
 nhncorp.jp
 nic.ru
 nicesrv.de
-nicesshop.net
 nichost.ru
 niosii.com
 niosii.net
@@ -6175,7 +6091,6 @@ odnoklassniki.ru
 odnoklassniki.tj
 oemsoc.download.prss.microsoft.com
 oemsocuat.download.prss.microsoft.com
-offerairjordanlebron.com
 office.com
 office.net
 office365-net.cn
@@ -6194,7 +6109,6 @@ officialbeatsbydrestore.com
 officialdrdre.com
 officialheadphone.com
 offrezdesipods.com
-ogameblog.com
 ogp.me
 ok.me
 ok.ru
@@ -6244,7 +6158,6 @@ onlinemonsterbeatsonsale.com
 onlyiphone5case.com
 onmschina.cn
 onsalekey.com
-onsaletrend.com
 ood.opsource.net
 ootbstudio.co.kr
 opal.google
@@ -6351,7 +6264,6 @@ passwordday.org
 pastahealth.com
 patentgold.net
 patenttruth.org
-paulsimon-music.com
 paxlicense.org
 paygonline.com
 payroll.com
@@ -6367,9 +6279,7 @@ pdf.new
 pentium.com
 pentium.net
 pepabo.com
-perfectkickz.net
 performanceparameters.googleapis.com
-personeelsland.com
 phncdn.com
 photolia.net
 photoshop.com
@@ -6379,8 +6289,6 @@ picasa.com
 picasaweb.com
 picasaweb.net
 picasaweb.org
-picknicekicks.net
-pickshoesclothes.com
 picnik.com
 pillbeatsblackfridaysale.com
 pintool.com
@@ -6429,7 +6337,6 @@ plug-into.com
 plug.game
 pmem.org
 pmem.us
-pocketbiketrader.com
 podcasts.apple.com
 podcasts.itunes.apple.com
 pointtown.com
@@ -6641,7 +6548,6 @@ razersupport.com
 razersynapse.com
 razerzone.com
 razerzone.jp
-rbsgr.com
 rdtcdn.com
 reachtheworldonfacebook.com
 react.com
@@ -6675,7 +6581,6 @@ redtube.com
 redtube.com.br
 redtubepremium.com
 redzonechannel.com
-reform-apple.com
 refresh-bkg.activation-v2.kaspersky.com
 reg.cloud
 reg.com
@@ -6692,8 +6597,6 @@ renshu.com
 repo.new
 report-megafon.ru
 report.ap.yandex-net.ru
-repsneakermall.com
-repswing.com
 researchandcare.org
 researchintel.com
 researchkit.cn
@@ -6783,7 +6686,6 @@ sagemaker.com.cn
 sahabatsetiasmartone.com
 salebeatslasteststyle4you.com
 saleblackfridaydrebeats.com
-salecheaphandbags.com
 salesforce-setup.com
 salesforce-sites.com
 salesforce.com
@@ -6791,7 +6693,6 @@ salesforce.org
 salesforceiq.com
 salesforceliveagent.com
 salesforcemarketingcloud.com
-samebags.com
 samsung.com
 samsung.com.cn
 samsungadhub.com
@@ -6831,7 +6732,6 @@ sandisk.it
 sandisk.nl
 sandisk.sg
 sankie.net
-sanvaras.com
 savethedate.foo
 savoycomputing.com
 sayeasy.eu
@@ -6920,7 +6820,6 @@ scholar.google.si
 scholar.google.sk
 scholar.googleusercontent.com
 scholar.l.google.com
-scnshop.cc
 scpic.net
 screenwisetrends.com
 screenwisetrendspanel.com
@@ -7003,8 +6902,6 @@ shedevrum.ru
 sheets.new
 shell.cdn.office.net
 shisho.dev
-shoers.com
-shoestop2.com
 shop-headphones.net
 shop-pro.jp
 shopalienware.com
@@ -7014,8 +6911,6 @@ shopcustomizedbeats.com
 shopdrebeats.com
 shopfacebook.com
 shopmonsterbeats.com
-shopping-days.net
-shoppinguheadphones.com
 shotgridsoftware.com
 shotgridstudio.com
 shotguncloud.com
@@ -7091,9 +6986,6 @@ snapdragonbooth.com
 snapkit.co
 snapseed.com
 snapvolumes.com
-sneaker666.com
-sneakerpage.net
-sneakerskick.com
 sni1dcb6gl.wpc.edgecastcdn.net
 snow.me
 snowcorp.com
@@ -7211,7 +7103,6 @@ sonypicturestelevisiongames.com
 sonyprotechnosupport.co.jp
 sonystoragemedia.co.jp
 sonytc.co.jp
-soso7778.com
 sourcecraft.dev
 sovcloud-mx.cn
 sovcloud-static.cn
@@ -7223,11 +7114,9 @@ spacemail.com
 spaceship.com
 spacex.com
 spcc-sp.com
-specialtyheadphones.com
 speedtest.com.hk
 speedysub.music.apple.com
 spektral.cc
-spiritclubs.com
 splunk.com
 spo-msedge.net
 sportmail.ru
@@ -7314,17 +7203,13 @@ stxmosquitoproject.org
 su.itunes.apple.com
 submittal-log.com
 successwithteams.com
-sulwerphoto.com
 summerstage.ru
 summitceo.ru
 sun.com
 sundanceignite2016.com
 sundayready.com
 sundry-star-net-geo.trafficmanager.net
-sunglassessale2014.com
-superearsenjoy.com
 supersrv.de
-supplybestjerseys.com
 support-china.apple-support.akadns.net
 support-uber.com
 support.apple.com
@@ -7372,7 +7257,6 @@ synologydownload.com
 synologyupdate.com
 sysinternals.com
 szcheapmonsterheadphones.com
-szwinnertechnology.com
 t-msedge.net
 t-splines.com
 t.mail.ru
@@ -7381,7 +7265,6 @@ tac.googleapis.com
 tail-f.com
 tailf.com
 tailwindtraders.com
-takegoto.com
 talantix.ru
 tamtam.chat
 tandberg-china.com
@@ -7452,7 +7335,6 @@ theintelstore.com
 theinventionworks.com
 theinventionworks.net
 thequestion.ru
-theuab.net
 thinkboxsoftware.com
 thinkdifferent.us
 thinkquarterly.co.uk
@@ -7508,7 +7390,6 @@ trace-flow.ru
 tracker-api.my.com
 tracker.my.com
 tracking-location.com
-tradevip1.com
 trafficmanager.cn
 trafficmanager.net
 translatetheweb.com
@@ -7532,7 +7413,6 @@ tryrating.com
 tsi.ai
 tspline.com
 tsplines.com
-tteshop.com
 tube8.com
 tube8.fr
 tubemogul.com
@@ -7613,7 +7493,6 @@ unfiltered.news
 universal-activity-service.itunes.apple.com
 universalscalablefirmware.org
 unlocklimitlesslearning.com
-unstyle.us
 update.crashlytics.com
 update.googleapis.com
 updates-http.cdn-apple.com
@@ -7639,7 +7518,6 @@ uverse.com
 uweb.ru
 uwn.com
 uwpcommunitytoolkit.com
-v-has.com
 v.ps
 v8.dev
 v8project.org
@@ -7721,8 +7599,6 @@ vidmpreview.com
 viewpointsfromfacebook.com
 vip-beats.com
 vipbeatsbydre.com
-vipheadphones.com
-vipshoes2.com
 viqeo.tv
 viqeotv.com
 viriondb.com
@@ -7866,7 +7742,6 @@ wa.me
 waccas.com
 wadax.ne.jp
 wallet.com
-wasdj.com
 wattpad.com
 waymo.com
 waze.com
@@ -7947,10 +7822,6 @@ wholefoodsmarket.co.uk
 wholefoodsmarket.com
 wholekidsfoundation.org
 wholeplanetfoundation.org
-wholesale-exporter1.com
-wholesalediscountpurses.com
-wholesalefine.com
-wholesaleonlinemart.com
 whychoosehorizon.com
 whychooseview.com
 whychoosevmwareeuc.com
@@ -8008,7 +7879,6 @@ worksmobile.com
 workspaceair.com
 workspaceone.com
 workstations.tv
-worldcoinpay.com
 worldhack.com
 worldsecureemail.com
 worldsecuresystems.com
