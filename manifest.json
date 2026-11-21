@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "4454376e5cfc75f1317c4524fe9b5e36d1c205a4",
+  "upstream_revision": "ffb513217b9cb22835eb74a39a907d77742ce68f",
   "total_lists": 1557,
   "published_lists": 1551,
   "omitted_lists": 6,
@@ -1655,7 +1655,7 @@
       "domain_count": 8563,
       "skipped_regex": 6,
       "skipped_keyword": 0,
-      "skipped_invalid_or_single_label": 50
+      "skipped_invalid_or_single_label": 52
     },
     "category-consent-management": {
       "status": "published",
@@ -1939,7 +1939,7 @@
     },
     "category-media": {
       "status": "published",
-      "domain_count": 1576,
+      "domain_count": 1594,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 5
@@ -2667,7 +2667,7 @@
     },
     "cnbc": {
       "status": "published",
-      "domain_count": 4,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,10 +4179,10 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25743,
+      "domain_count": 25761,
       "skipped_regex": 158,
       "skipped_keyword": 0,
-      "skipped_invalid_or_single_label": 71
+      "skipped_invalid_or_single_label": 73
     },
     "geolocation-cn": {
       "status": "published",
@@ -4735,7 +4735,7 @@
       "domain_count": 12,
       "skipped_regex": 0,
       "skipped_keyword": 0,
-      "skipped_invalid_or_single_label": 0
+      "skipped_invalid_or_single_label": 1
     },
     "hku": {
       "status": "published",
@@ -6783,7 +6783,7 @@
     },
     "nbcuniversal": {
       "status": "published",
-      "domain_count": 17,
+      "domain_count": 33,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -7437,7 +7437,7 @@
       "domain_count": 28,
       "skipped_regex": 1,
       "skipped_keyword": 0,
-      "skipped_invalid_or_single_label": 0
+      "skipped_invalid_or_single_label": 2
     },
     "pchome": {
       "status": "published",
