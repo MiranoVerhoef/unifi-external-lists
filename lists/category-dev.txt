@@ -527,6 +527,7 @@ registry.gitlab.com
 registry.k8s.io
 remirepo.net
 renderingtoolkit.org
+replit.com
 repo.new
 researchandcare.org
 researchkit.cn
@@ -616,6 +617,7 @@ timelinestoryteller.com
 timestamp.apple.com
 tmimgcdn.com
 topcoder.com
+tortoisegit.org
 ubuntu-touch.io
 ubuntu.com
 ubuntu.net

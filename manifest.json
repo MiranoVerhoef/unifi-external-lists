@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "ffb513217b9cb22835eb74a39a907d77742ce68f",
+  "upstream_revision": "9c1420eb3dffce67d2d8e9cbe1f9026ae0d949b6",
   "total_lists": 1557,
   "published_lists": 1551,
   "omitted_lists": 6,
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 697,
+      "domain_count": 699,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -1715,7 +1715,7 @@
     },
     "category-ecommerce": {
       "status": "published",
-      "domain_count": 1325,
+      "domain_count": 1326,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 4
@@ -3248,14 +3248,14 @@
     },
     "dmm": {
       "status": "published",
-      "domain_count": 17,
+      "domain_count": 18,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
     },
     "dmm-porn": {
       "status": "published",
-      "domain_count": 2,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25761,
+      "domain_count": 25765,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 73
@@ -7602,7 +7602,7 @@
     },
     "playboy": {
       "status": "published",
-      "domain_count": 2,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
