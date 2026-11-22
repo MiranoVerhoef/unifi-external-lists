@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "9c1420eb3dffce67d2d8e9cbe1f9026ae0d949b6",
+  "upstream_revision": "810aa5258c883f5a2a6fd43cf058d01db0f06be5",
   "total_lists": 1557,
   "published_lists": 1551,
   "omitted_lists": 6,
@@ -2653,7 +2653,7 @@
     },
     "cn": {
       "status": "published",
-      "domain_count": 8514,
+      "domain_count": 8515,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 49
@@ -4186,7 +4186,7 @@
     },
     "geolocation-cn": {
       "status": "published",
-      "domain_count": 8514,
+      "domain_count": 8515,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 18
