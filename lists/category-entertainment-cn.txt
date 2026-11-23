@@ -215,6 +215,7 @@ chatwrite.net
 chatxiaoxiang.com
 chatyuewen.cn
 chuapp.com
+chunithm.wahlap.com
 cibn.cc
 cibntv.net
 ciweimao.com
@@ -598,6 +599,7 @@ mahjongcup.cn
 mahjongcup.com
 mahjongcup.net
 mail4399.com
+maimai.wahlap.com
 maindown4399.com
 mamecn.com
 manben.com
@@ -801,6 +803,7 @@ texasholdemcup.cn
 texasholdemcup.com
 texasholdemcup.net
 tgbus.com
+tgk-wcaime.wahlap.com
 tgpro.top
 tgprocs.net
 th-music.com
@@ -835,6 +838,7 @@ vrzwk.com
 vrzwk.net
 vrzwk.top
 vsread.com
+wahlap.net
 wanmei.com
 wanwan4399.com
 wasu.cn

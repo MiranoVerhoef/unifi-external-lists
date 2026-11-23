@@ -9712,6 +9712,7 @@ gemini.gstatic.com
 gemini.yahoo.com
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
+gemma.ai
 gen.lib.rus.ec
 genbank.ru
 gendai.net
