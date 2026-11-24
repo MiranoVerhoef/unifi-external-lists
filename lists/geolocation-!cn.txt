@@ -4833,6 +4833,7 @@ cabletv.com.hk
 cabletvdirectv.com
 cache-management-prod.google.com
 cache.pack.google.com
+cachix.org
 cad-mep.com
 cadcamsystemsinc.com
 cadduct.com
@@ -5943,6 +5944,7 @@ coursera-for-business.org
 coursera.community
 coursera.help
 coursera.org
+courses.myecnu.org
 coverartarchive.org
 covid19-rx.org
 covid19rx.org
@@ -6363,6 +6365,7 @@ dealtime.com
 dealtree.org
 deasians.com
 debank.com
+debian.map.fastlydns.net
 debian.org
 debot.ai
 debug.com
@@ -8638,10 +8641,12 @@ fastindianporn.com
 fastlane.ci
 fastlane.tools
 fastly-edge.com
+fastly-insights.com
 fastly-terrarium.com
 fastly.com
 fastly.io
 fastly.net
+fastlydns.net
 fastlylabs.com
 fastlylb.net
 faststone.org
@@ -23297,6 +23302,7 @@ viu.com
 viu.tv
 vivaldi.com
 vivaxnxx.com
+vivox.com
 vixen.com
 vixengroup.com
 vixvids.to

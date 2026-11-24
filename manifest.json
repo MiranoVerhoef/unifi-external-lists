@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "dfa5b1c2258289bdbee70d06352cca23b9bdac7f",
+  "upstream_revision": "98c43cad27fa8f02043858763709fe4a95432ffb",
   "total_lists": 1557,
   "published_lists": 1551,
   "omitted_lists": 6,
@@ -1624,7 +1624,7 @@
     },
     "category-cdn-!cn": {
       "status": "published",
-      "domain_count": 195,
+      "domain_count": 197,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1687,7 +1687,7 @@
     },
     "category-dev": {
       "status": "published",
-      "domain_count": 699,
+      "domain_count": 702,
       "skipped_regex": 1,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -3038,7 +3038,7 @@
     },
     "debian": {
       "status": "published",
-      "domain_count": 2,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -3794,7 +3794,7 @@
     },
     "fastly": {
       "status": "published",
-      "domain_count": 7,
+      "domain_count": 9,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25766,
+      "domain_count": 25772,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 73
@@ -6993,7 +6993,7 @@
     },
     "nixos": {
       "status": "published",
-      "domain_count": 12,
+      "domain_count": 13,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -9821,7 +9821,7 @@
     },
     "unity": {
       "status": "published",
-      "domain_count": 10,
+      "domain_count": 11,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
