@@ -5411,11 +5411,14 @@ meet.new
 meetfasttrack.com
 meetsmartbook.com
 meetyourdevices.com
+megafon.cloud
 megafon.com
 megafon.ru
 megafonpro.ru
 megamon.co.kr
+megapbx.ru
 megasrv.de
+megatech-it.ru
 melon.com
 memealerts.com
 men.com
@@ -5606,6 +5609,7 @@ mobile-icq.com
 mobileads.google.com
 mobilefacebook.com
 mobileicq.com
+mobileid.ru
 mobilemarketo.com
 mobileme.dk
 mobileview.page
@@ -5827,6 +5831,7 @@ mtsbank.ru
 mtsdengi.ru
 mtsmedia.ru
 mudbox3d.com
+multifon.ru
 multiplydiversity.com
 muse.ai
 music.apple.com
@@ -6055,6 +6060,7 @@ o365files.cn
 o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
+o7.com
 oath.cloud
 oath.com
 oauthz.com
@@ -6152,6 +6158,7 @@ oneteamconference.com
 oneworldmanystories.com
 oninstagram.com
 onkakao.net
+onlime.ru
 online-deals.net
 online-instagram.com
 onlineapplestore.com
@@ -6626,6 +6633,7 @@ rocksdb.com
 rocksdb.net
 rocksdb.org
 rostaxi.org
+rostelecom-rb.ru
 rostelecom.ru
 route53.cn
 routerboard.com
@@ -8065,6 +8073,7 @@ xn--9kr7l.com
 xn--9trs65b.com
 xn--czrs0t4phtr3a.cn
 xn--d1acpjx3f.xn--p1ai
+xn--e1aapchhekkk.xn--p1ai
 xn--e1aigb.xn--p1ai
 xn--fiqs8sxootzz.cn
 xn--fiqs8sxootzz.xn--hxt814e

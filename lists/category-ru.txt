@@ -239,6 +239,7 @@ b2.mail.ru
 b2c-digest.ru
 b37mrtl.ru
 babki.ru
+baikal-ttk.ru
 baltnews.com
 baltnews.lt
 bananacall.ru
@@ -395,6 +396,7 @@ cmrbank.ru
 cnconf.ru
 cnews.ru
 cnewsforum.ru
+cnt.ru
 coalmetbank.ru
 code-class.ru
 codeseason.by
@@ -687,6 +689,8 @@ gitverse.ru
 gks.ru
 gogettaxi.org
 goicq.org
+goodline.info
+goodline.ru
 google-analytics-suite.ozon.ru
 gorod-elista.ru
 gorodazov.ru
@@ -822,6 +826,7 @@ investpay.ru
 irk.ru
 irkobl.ru
 irkutsk.ru
+is74.ru
 isnbank.ru
 it-katok.ru
 it-picnic.ru
@@ -1004,6 +1009,7 @@ ksrf.ru
 ktalk.host
 ktalk.ru
 ktech.team
+kttk.ru
 kuban.ru
 kubankredit.ru
 kubzsk.ru
@@ -1021,6 +1027,7 @@ lenoblzaks.ru
 lenta.com
 lenta.tech
 lerna.ru
+letai.ru
 lexgarant.com
 lifestyle-tec.ru
 ligadobra.ru
@@ -1033,6 +1040,7 @@ lockobank.ru
 log.dzen.ru
 log.strm.yandex.ru
 lovina.app
+lovit.ru
 loyalnost-adv.ozon.ru
 magadan.ru
 magnit.com
@@ -1073,12 +1081,15 @@ medsi.pro
 medsi.ru
 medtochka.ru
 megabitus.com
+megafon.cloud
 megafon.com
 megafon.ru
 megafonpro.ru
 megamarket.ru
 megamarket.tech
+megapbx.ru
 megapteka.ru
+megatech-it.ru
 mel.fm
 melfm.ru
 memealerts.com
@@ -1119,6 +1130,7 @@ minfin.ru
 minfintuva.ru
 minstroyrf.ru
 mirabilis.com
+miranda-media.ru
 mirandaicq.com
 mironline.ru
 mirpayonline.ru
@@ -1131,6 +1143,7 @@ mnogolososya.ru
 mobile-bb.com
 mobile-icq.com
 mobileicq.com
+mobileid.ru
 modulbank.ru
 moex.com
 mofoms.ru
@@ -1164,6 +1177,7 @@ mtsbank.ru
 mtsdengi.ru
 mtsmedia.ru
 multifactor.ru
+multifon.ru
 murmansk.ru
 murom.info
 mvd.ru
@@ -1186,6 +1200,7 @@ myoffice.team
 myspar.ru
 mytopf.com
 mytrk.link
+myttk.ru
 mytyshi.ru
 n-vartovsk.ru
 nabchelny.ru
@@ -1225,6 +1240,7 @@ novobank.ru
 novoblduma.ru
 novoshakhtinsk.org
 novosibirsk.ru
+novotelecom.ru
 novreg.ru
 nplus1.ru
 ns-bank.ru
@@ -1242,6 +1258,7 @@ o-uchi.ru
 o3.ru
 o3t.ru
 o3team.ru
+o7.com
 oblsovet.ru
 obr03.ru
 obs.mts.ru
@@ -1274,6 +1291,7 @@ omsk.ru
 omskportal.ru
 on-media.ru
 oneme.ru
+onlime.ru
 onlyjobs.ru
 ooc-school.ru
 opennet.dev
@@ -1382,6 +1400,7 @@ pobeda.page
 pochta.ru
 pochtabank.ru
 podorozhnik.spb.ru
+podryad.tv
 poidem.ru
 polyclinika.ru
 polza.ai
@@ -1456,6 +1475,8 @@ rdrom.ru
 realtyverif.ru
 reaviz.com
 reaviz.ru
+redcom.net
+redcom.ru
 refresh-bkg.activation-v2.kaspersky.com
 reg.cloud
 reg.com
@@ -1504,6 +1525,7 @@ rospotrebnadzor.ru
 rosreestr.ru
 rossiyasegodnya.com
 rostaxi.org
+rostelecom-rb.ru
 rostelecom.ru
 rostics.ru
 rostov-gorod.ru
@@ -1628,6 +1650,7 @@ saas-support.com
 safeliner.tech
 sage-observability.tech
 sakhalin.ru
+sakhttk.ru
 salavatsovet.ru
 samara.ru
 samgd.ru
@@ -1732,8 +1755,10 @@ skbx.pro
 skillbox.pro
 skillbox.ru
 skillfactory.ru
+sknt.ru
 sky.pro
 skyeng.ru
+skynet.ru
 slavbank.ru
 slavicstar.com
 slbank.ru
@@ -1852,6 +1877,7 @@ targetads.io
 tatar.ru
 tatarstan.ru
 tatsotsbank.ru
+tattelecom.ru
 taxi.yandex.ru
 taxiaid.org
 taxiguru.org
@@ -1924,6 +1950,9 @@ trudvsem.ru
 tsaritsyn.ru
 tsbnk.ru
 tsk.ru
+ttc-net.ru
+ttk.ru
+ttkdv.ru
 tula.ru
 tularegion.ru
 turbopages.org
@@ -2074,6 +2103,7 @@ vl.ru
 vladikavkaz.ru
 vladimir.ru
 vladivostok.ru
+vladlink.ru
 vlb100.ru
 vlbb.ru
 vlc.ru
@@ -2281,6 +2311,7 @@ xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1abkf4ap.fun
 xn--d1acchc3adyj9k.xn--p1ai
 xn--d1acpjx3f.xn--p1ai
+xn--e1aapchhekkk.xn--p1ai
 xn--e1adjldbbpv.xn--90ais
 xn--e1aigb.xn--p1ai
 xn--h1ao.site
@@ -2405,6 +2436,7 @@ zspo.ru
 zsro.ru
 zsso.ru
 zsto.ru
+zsttk.net
 zsvo.ru
 zub.ru
 zvuk-b2b.com

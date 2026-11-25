@@ -3,7 +3,7 @@
 Generated from [V2Fly domain-list-community](https://github.com/v2fly/domain-list-community).
 Unsupported regexes and keywords are omitted.
 
-Published lists: **1551** of **1557**.
+Published lists: **1552** of **1558**.
 
 | List | Domains | Skipped regex | Skipped keyword |
 | --- | ---: | ---: | ---: |
@@ -242,7 +242,7 @@ Published lists: **1551** of **1557**.
 | [category-cdn-cn](lists/category-cdn-cn.txt) | 99 | 0 | 0 |
 | [category-collaborate-cn](lists/category-collaborate-cn.txt) | 26 | 0 | 0 |
 | [category-communication](lists/category-communication.txt) | 160 | 0 | 0 |
-| [category-companies](lists/category-companies.txt) | 8566 | 6 | 0 |
+| [category-companies](lists/category-companies.txt) | 8575 | 6 | 0 |
 | [category-consent-management](lists/category-consent-management.txt) | 14 | 0 | 0 |
 | [category-container](lists/category-container.txt) | 9 | 1 | 0 |
 | [category-cryptocurrency](lists/category-cryptocurrency.txt) | 241 | 0 | 0 |
@@ -311,7 +311,7 @@ Published lists: **1551** of **1557**.
 | [category-public-tracker](lists/category-public-tracker.txt) | 433 | 0 | 0 |
 | [category-remote-control](lists/category-remote-control.txt) | 8 | 0 | 0 |
 | [category-retail-ru](lists/category-retail-ru.txt) | 82 | 0 | 0 |
-| [category-ru](lists/category-ru.txt) | 2411 | 0 | 0 |
+| [category-ru](lists/category-ru.txt) | 2443 | 0 | 0 |
 | [category-scholar-!cn](lists/category-scholar-!cn.txt) | 484 | 0 | 0 |
 | [category-scholar-cn](lists/category-scholar-cn.txt) | 96 | 0 | 0 |
 | [category-scholar-hk](lists/category-scholar-hk.txt) | 33 | 0 | 0 |
@@ -603,7 +603,7 @@ Published lists: **1551** of **1557**.
 | [geetest](lists/geetest.txt) | 2 | 0 | 0 |
 | [gemfury](lists/gemfury.txt) | 6 | 0 | 0 |
 | [genotek-ru](lists/genotek-ru.txt) | 9 | 0 | 0 |
-| [geolocation-!cn](lists/geolocation-!cn.txt) | 25774 | 158 | 0 |
+| [geolocation-!cn](lists/geolocation-!cn.txt) | 25783 | 158 | 0 |
 | [geolocation-cn](lists/geolocation-cn.txt) | 8519 | 3 | 0 |
 | [gettyimages](lists/gettyimages.txt) | 25 | 0 | 0 |
 | [getui](lists/getui.txt) | 7 | 0 | 0 |
@@ -907,7 +907,7 @@ Published lists: **1551** of **1557**.
 | [medium](lists/medium.txt) | 2 | 0 | 0 |
 | [meduza](lists/meduza.txt) | 2 | 0 | 0 |
 | [mega](lists/mega.txt) | 7 | 0 | 0 |
-| [megafon](lists/megafon.txt) | 12 | 0 | 0 |
+| [megafon](lists/megafon.txt) | 17 | 0 | 0 |
 | [meipian](lists/meipian.txt) | 3 | 0 | 0 |
 | [meitu](lists/meitu.txt) | 13 | 0 | 0 |
 | [meituan](lists/meituan.txt) | 19 | 0 | 0 |
@@ -1168,7 +1168,7 @@ Published lists: **1551** of **1557**.
 | [rockstar](lists/rockstar.txt) | 7 | 0 | 0 |
 | [roku](lists/roku.txt) | 6 | 0 | 0 |
 | [rossiyasegodnya](lists/rossiyasegodnya.txt) | 18 | 0 | 0 |
-| [rostelecom](lists/rostelecom.txt) | 9 | 0 | 0 |
+| [rostelecom](lists/rostelecom.txt) | 13 | 0 | 0 |
 | [rsshub](lists/rsshub.txt) | 1 | 0 | 0 |
 | [rsshub-3rd](lists/rsshub-3rd.txt) | 19 | 0 | 0 |
 | [rt](lists/rt.txt) | 112 | 0 | 0 |
@@ -1369,6 +1369,7 @@ Published lists: **1551** of **1557**.
 | [trackernetwork](lists/trackernetwork.txt) | 3 | 0 | 0 |
 | [trae](lists/trae.txt) | 12 | 0 | 0 |
 | [translatewiki](lists/translatewiki.txt) | 2 | 0 | 0 |
+| [transtelecom](lists/transtelecom.txt) | 8 | 0 | 0 |
 | [trello](lists/trello.txt) | 2 | 0 | 0 |
 | [trustasia](lists/trustasia.txt) | 11 | 0 | 0 |
 | [trustwallet](lists/trustwallet.txt) | 1 | 0 | 0 |

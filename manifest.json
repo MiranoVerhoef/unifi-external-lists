@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "96d9c68b7ef43f71118d0be17a9f2edb464825e6",
-  "total_lists": 1557,
-  "published_lists": 1551,
+  "upstream_revision": "e5f669692b33c189efc96cb1a972c69b390bbbc8",
+  "total_lists": 1558,
+  "published_lists": 1552,
   "omitted_lists": 6,
   "lists": {
     "0x0": {
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8566,
+      "domain_count": 8575,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 52
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2411,
+      "domain_count": 2443,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25774,
+      "domain_count": 25783,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 73
@@ -6314,7 +6314,7 @@
     },
     "megafon": {
       "status": "published",
-      "domain_count": 12,
+      "domain_count": 17,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -8141,7 +8141,7 @@
     },
     "rostelecom": {
       "status": "published",
-      "domain_count": 9,
+      "domain_count": 13,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -9577,6 +9577,13 @@
     "translatewiki": {
       "status": "published",
       "domain_count": 2,
+      "skipped_regex": 0,
+      "skipped_keyword": 0,
+      "skipped_invalid_or_single_label": 0
+    },
+    "transtelecom": {
+      "status": "published",
+      "domain_count": 8,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
