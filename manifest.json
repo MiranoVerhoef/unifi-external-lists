@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "98c43cad27fa8f02043858763709fe4a95432ffb",
+  "upstream_revision": "96d9c68b7ef43f71118d0be17a9f2edb464825e6",
   "total_lists": 1557,
   "published_lists": 1551,
   "omitted_lists": 6,
@@ -1519,7 +1519,7 @@
     },
     "category-ai-ru": {
       "status": "published",
-      "domain_count": 12,
+      "domain_count": 13,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -1652,7 +1652,7 @@
     },
     "category-companies": {
       "status": "published",
-      "domain_count": 8564,
+      "domain_count": 8566,
       "skipped_regex": 6,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 52
@@ -1883,7 +1883,7 @@
     },
     "category-gov-ru": {
       "status": "published",
-      "domain_count": 145,
+      "domain_count": 409,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -2135,7 +2135,7 @@
     },
     "category-ru": {
       "status": "published",
-      "domain_count": 2146,
+      "domain_count": 2411,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 12
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25772,
+      "domain_count": 25774,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 73
@@ -6650,7 +6650,7 @@
     },
     "mts-ru": {
       "status": "published",
-      "domain_count": 13,
+      "domain_count": 15,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0

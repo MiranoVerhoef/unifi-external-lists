@@ -14656,6 +14656,7 @@ mgfn.ru
 mgmt-azure-api.cn
 mgo-images.com
 mgo.com
+mgts.ru
 mhcb.ru
 mhcbr.ru
 mhgui.com
@@ -20791,6 +20792,7 @@ spasibosb.ru
 spasibosberbank.ru
 spbexchange.ru
 spcc-sp.com
+spd-mgts.ru
 spearhead.kr
 spectator.ppy.sh
 spectraltube.com

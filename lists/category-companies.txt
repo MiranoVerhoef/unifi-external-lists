@@ -5448,6 +5448,7 @@ metrika.yandex.ru
 mfg-inspector.com
 mgfn.ru
 mgmt-azure-api.cn
+mgts.ru
 michill.jp
 microbit.org
 microsoft-falcon.io
@@ -7115,6 +7116,7 @@ spacemail.com
 spaceship.com
 spacex.com
 spcc-sp.com
+spd-mgts.ru
 speedtest.com.hk
 speedysub.music.apple.com
 spektral.cc

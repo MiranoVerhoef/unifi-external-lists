@@ -3,6 +3,7 @@ alice.yandex.net
 alice.yandex.ru
 alicepro.yandex.ru
 copymonkey.app
+devmachine.ai
 gerwin.io
 giga.chat
 gptunnel.ru
