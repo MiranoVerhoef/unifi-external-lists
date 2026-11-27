@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/v2fly/domain-list-community",
-  "upstream_revision": "e6601e0d5f5a2b7504b3b11f1bd7ec12818ab46a",
+  "upstream_revision": "f68dab92e2ce656bbd81a4ae424de79b179f0f77",
   "total_lists": 1558,
   "published_lists": 1552,
   "omitted_lists": 6,
@@ -1778,7 +1778,7 @@
     },
     "category-entertainment": {
       "status": "published",
-      "domain_count": 2161,
+      "domain_count": 2162,
       "skipped_regex": 10,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 6
@@ -1855,14 +1855,14 @@
     },
     "category-games": {
       "status": "published",
-      "domain_count": 1182,
+      "domain_count": 1183,
       "skipped_regex": 4,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
     },
     "category-games-!cn": {
       "status": "published",
-      "domain_count": 883,
+      "domain_count": 884,
       "skipped_regex": 3,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 2
@@ -3724,7 +3724,7 @@
     },
     "faceit": {
       "status": "published",
-      "domain_count": 2,
+      "domain_count": 3,
       "skipped_regex": 0,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 0
@@ -4179,7 +4179,7 @@
     },
     "geolocation-!cn": {
       "status": "published",
-      "domain_count": 25784,
+      "domain_count": 25785,
       "skipped_regex": 158,
       "skipped_keyword": 0,
       "skipped_invalid_or_single_label": 73
