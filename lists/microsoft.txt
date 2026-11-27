@@ -21,6 +21,7 @@ aria.ms
 asp.net
 aspnetcdn.com
 atom.io
+aurora-customization-usw2.lithium.com
 az764295.vo.msecnd.net
 azchcdna.com
 azchcdnb.com

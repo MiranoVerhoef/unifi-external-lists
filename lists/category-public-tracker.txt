@@ -149,6 +149,7 @@ opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
 opentracker.io
+opentracker.xyz
 opentrackr.org
 oscar.reyesleon.xyz
 p2p.0g.cx
@@ -333,7 +334,6 @@ tracker.netmap.top
 tracker.nighthawk.pw
 tracker.open-internet.nl
 tracker.openbittorrent.com
-tracker.opentrackr.org
 tracker.picotorrent.one
 tracker.pirateparty.gr
 tracker.plx.im
@@ -429,5 +429,6 @@ y.t-1.org
 yolo.liberbear.com
 yuwabits.net
 z.paranoid.agency
+zer0day.ch
 zone-torrent.net
 zupix.online
